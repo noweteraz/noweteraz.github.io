@@ -1,0 +1,20 @@
+---
+layout: page
+---
+
+<div class="container mx-auto px-4"> 
+  <article class="py-20 px-4 max-w-4xl mx-auto">
+    <h2 class="text-5xl text-center mb-4 font-heading font-semibold">{{ page.title }}</h2>
+    <p class="text-center">
+      <time>{{ page.date | date: '%d-%m-%Y' }}</time>
+    </p>
+    <div class="my-10">
+      <img class="object-cover w-full" src="/assets/img/{{ page.image }}" alt="{{ post.title }}">
+    </div>
+    <div class="text-2xl text-gray-600">
+      {{ page.content | markdownify | replace: '<p>', '<p class="mb-4">' | replace: '<a', '<a class="text-blue-700"' | replace: 'src="/uploads/', 'src="/assets/img/uploads/' }}
+    </div>
+  </article>
+</div>
+
+

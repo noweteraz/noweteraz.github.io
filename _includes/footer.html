@@ -1,2 +1,27 @@
-</body>
-</html>
+<div class="container mx-auto px-4"> 
+    <footer class="">
+      <div class="flex flex-wrap items-center py-4 px-4 border-b">
+      <div class="w-full lg:w-1/5 text-center lg:text-left">
+        <a class="text-xl text-indigo-600 font-semibold font-heading" href="/"><img src="/assets/img/logo-www-150x150.png" alt="Logo {{ site.name }}" width="50"></a></div>
+      <div class="w-full lg:w-3/5 mt-4 lg:mt-0 text-center">
+        {% for item in site.footer_nav %}
+        <a {% if item[1] contains 'https' %} target="_blank" {% endif %} class="inline-block mx-4 mb-4 lg:mb-0 text-gray-900 hover:text-indigo-600 font-semibold" href="{{ item[1] }}">{{ item[0] }}</a>
+        {% endfor %}
+      </div>
+      <div class="flex justify-center space-x-6 lg:justify-end w-full lg:w-1/5 my-2 lg:my-0">
+        <a title="YouTube" target="_blank" href="{{ site.youtube }}">
+          YouTube
+        </a>
+        <a title="Facebook" target="_blank" href="{{ site.facebook }}">
+          Facebook</a>
+      </div>
+      </div>
+
+      <div class="py-4 text-center">
+        <span class="block md:inline-block mb-4 md:mb-0 mx-3">Copyright &copy; 2014&ndash;{{ site.time | date: '%Y' }} by Fundacja Nowe Teraz</span>
+        {% for item in site.terms_nav %}
+        <a class="inline-block mx-4 text-gray-900 hover:text-indigo-600" href="{{ item[1] }}">{{ item[0] }}</a>
+        {% endfor %}
+      </div>
+    </footer>
+  </div>

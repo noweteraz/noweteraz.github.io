@@ -1,11 +1,56 @@
-title: Tailwind Jekyll Starter Kit
-description: A starter kit for using Tailwind with Jekyll
+title: Fundacja Nowe Teraz
+description: Edukujemy, wspieramy i inspirujemy wspólne działanie osób w trudnej sytuacji życiowej.
+
+url: https://www.noweteraz.pl
+
+author: Fundacja Nowe Teraz
+
+logo: /assets/img/logo-www-150x150.png
+
+contact_form: https://docs.google.com/forms/d/e/1FAIpQLSdxXd_IdTOxOK2iEnSvy55U9lFWKWjTpJeby_zufZ8buYPUuQ/viewform
+
+volunteer_form: https://docs.google.com/forms/d/e/1FAIpQLSfy6h5cRm5Ht1tGrRK8nZ-WwBYydBQHffhrpSwI5zL-Im0SUA/viewform
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+excerpt_separator: |2+
+
+google_analytics: UA-133950974-1
+facebook: "https://www.facebook.com/wykluczenipl"
+youtube: "https://www.youtube.com/channel/UCIp9Zws489eOnFag8fdxVQQ"
+
+collections:
+  posts:
+    output: true
+  pages:
+    output: true
+  shop:
+    output: false
+
+defaults:
+- scope:
+    path: ""
+    type: "posts"
+  values:
+    permalink: "/blog/:title/"
+    layout: "post"
+- scope:
+    path: "/assets/img/uploads/files/*.pdf"
+  values:
+    sitemap: false
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - gulpfile.babel.js
-  - LICENSE.md
   - node_modules
   - package.json
   - package-lock.json
@@ -13,3 +58,49 @@ exclude:
   - src
   - tailwind.config.js
   - netlify.toml
+
+header_nav_left:
+  Strona główna: "/"
+  O fundacji: "/o-fundacji/"
+  Projekty: "/projekty/"
+
+header_nav_right:
+  Blog: "/blog/"
+  Sklep: "/sklep-charytatywny/"
+  Kontakt: "/kontakt/"
+
+footer_nav:
+  Sklep: "/sklep-charytatywny/"
+  Galeria: "https://galeria.noweteraz.pl"
+  Wolontariat: "https://wolontariat.noweteraz.org"
+  Kontakt: "/kontakt/"
+
+terms_nav:
+  Polityka prywatności: /polityka-prywatnosci/
+  Regulaminy: /regulamin/
+
+address:
+  addressLocality: Warszawa
+  streetAddress: Zielna 39
+  addressRegion: Mazowieckie
+  postalCode: 00-108
+  addressCountry: Polska
+  telephone: +48 574-662-644
+  e-mail: sekretariat@noweteraz.pl
+
+legal:
+  ceo: Artur Król
+  krs: 0000495968
+  nip: 5252585787
+  regon: 147116250
+  bank: PKO BP
+  account: 07 1020 1013 0000 0102 0423 4647
+
+geo:
+  latitude: "54.4180200"
+  longitude: "18.5659700"
+  map: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4886.778954275416!2d21.006197!3d52.236309!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8a481657ad%3A0x5b19c550ef2189a2!2sZielna%2039%2C%2000-017%20Warszawa!5e0!3m2!1spl!2spl!4v1611830235455!5m2!1spl!2spl"
+
+scripts_lazyload: |-
+
+  <script src="/assets/js/lazysizes.min.js" async=""></script>

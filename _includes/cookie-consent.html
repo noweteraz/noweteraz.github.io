@@ -1,0 +1,44 @@
+<div id="cookie-notice" class="container mx-auto px-4"> 
+    <div class="fixed bottom-0 left-0 lg:w-2/5 py-4 px-6 bg-white border-t lg:border-r lg:rounded lg:shadow">
+      <h2 class="text-3xl mb-2 font-semibold font-heading">Polityka Prywatności</h2>
+      <p class="mb-4 text-gray-400 leading-relaxed">Używamy plików cookie. Zapoznaj się z naszą <a class="text-indigo-600 hover:underline" href="/polityka-prywatnosci/">Polityką prywatności </a> oraz polityką ochrony danych osobowych.</p>
+      <a href="#" id="cookie-notice-accept" class="inline-block py-4 px-8 leading-none text-white bg-indigo-600 hover:bg-indigo-700 font-semibold rounded shadow">Akceptuję</a>
+    </div>
+</div>
+
+<script>
+    function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+
+    if(readCookie('cookie-notice-dismissed')=='true') {
+      document.getElementById('cookie-notice').style.display = 'none';
+    } else {
+        document.getElementById('cookie-notice').style.display = 'block';
+    }
+    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
+        createCookie('cookie-notice-dismissed','true',180);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+
+</script>
