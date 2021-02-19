@@ -7,6 +7,14 @@ author: Fundacja Nowe Teraz
 
 logo: /assets/img/logo-www-150x150.png
 
+locale: pl_PL
+
+social:
+  name: Fundacja Nowe Teraz
+  links:
+    - https://www.facebook.com/wykluczenipl
+    - https://www.youtube.com/channel/UCIp9Zws489eOnFag8fdxVQQ
+    
 contact_form: https://docs.google.com/forms/d/e/1FAIpQLSdxXd_IdTOxOK2iEnSvy55U9lFWKWjTpJeby_zufZ8buYPUuQ/viewform
 
 volunteer_form: https://docs.google.com/forms/d/e/1FAIpQLSfy6h5cRm5Ht1tGrRK8nZ-WwBYydBQHffhrpSwI5zL-Im0SUA/viewform
@@ -73,6 +81,7 @@ footer_nav:
   Sklep: "/sklep-charytatywny/"
   Galeria: "https://galeria.noweteraz.pl"
   Wolontariat: "https://wolontariat.noweteraz.org"
+  Wesprzyj: "/wspieram/"
   Kontakt: "/kontakt/"
 
 terms_nav:
@@ -99,7 +108,7 @@ legal:
 geo:
   latitude: "54.4180200"
   longitude: "18.5659700"
-  map: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4886.778954275416!2d21.006197!3d52.236309!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8a481657ad%3A0x5b19c550ef2189a2!2sZielna%2039%2C%2000-017%20Warszawa!5e0!3m2!1spl!2spl!4v1611830235455!5m2!1spl!2spl"
+  map: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9773.557908550833!2d21.006197!3d52.236309!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xda3e3d69d34cbba5!2sFundacja%20Nowe%20Teraz!5e0!3m2!1spl!2spl!4v1613652594147!5m2!1spl!2spl"
 
 scripts_lazyload: |-
 

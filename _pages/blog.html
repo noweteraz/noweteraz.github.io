@@ -4,8 +4,7 @@ description: Aktualne informacje i wydarzenia Fundacji Nowe Teraz.
 permalink: "/blog/"
 layout: page
 ---
-<div class="container mx-auto px-4"> 
-    
+<div class="container mx-auto px-4">   
     <section class="py-12 px-4 max-w-4xl mx-auto">
         <h1 class="text-4xl text-center mb-10 font-semibold font-heading">Blog</h1>
       <div class="flex flex-wrap -mx-4">
@@ -14,13 +13,9 @@ layout: page
           <div class="h-full pb-8 px-4">
             <a href="{{ post.url }}">
                 <h2 class="text-gray-800 text-4xl my-6 font-heading font-semibold">{{ post.title }}</h2>
-                <time>{{ post.date | date: '%d-%m-%Y' }}</time>
- 
+                <time class="text-gray-500" >{{ post.date | date: '%d-%m-%Y' }}</time>
               <img class="mb-6 mt-6 object-cover w-full lazyload" data-src="/assets/img/{{post.image }}" alt="{{ post.title }}">
-
-
-                <p class="text-2xl text-gray-600">{{ post.description }}</p>
-
+                <p class="text-2xl text-gray-500">{{ post.description }}</p>
             </a>
           </div>
         </div>

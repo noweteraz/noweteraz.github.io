@@ -5,13 +5,13 @@
       <div class="lg:order-2 w-auto lg:text-center"><a class="text-xl text-indigo-600 font-semibold font-heading" href="/"><img src="{{ site.logo }}" alt="Logo {{ site.title }}"></a></div>
 
       <div class="block lg:hidden">
-        <button class="navbar-burger flex items-center py-2 px-3 text-indigo-500 rounded border border-indigo-500">
+        <button class="navbar-burger flex items-center py-2 px-3 text-gray-600 rounded border border-gray-600">
           <svg class="fill-current h-3 w-3" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path></svg></button>
       </div>
 
       <div class="navbar-menu hidden lg:order-1 lg:block w-full lg:w-2/5">
         {% for item in site.header_nav_left %}
-        <a class="block lg:inline-block mt-4 lg:mt-0 mr-10 hover:text-indigo-600 text-gray-900 font-bold" href="{{ item[1] }}">{{ item[0] }}</a>
+        <a class="block lg:inline-block mt-4 lg:mt-0 mr-10 hover:text-blue-700 text-gray-900 font-bold" href="{{ item[1] }}">{{ item[0] }}</a>
         {% endfor %}
       </div>
 
@@ -23,7 +23,8 @@
 
     </nav>
   
-    <section class="container mx-auto py-4 px-4"><div class="flex flex-wrap items-center text-center lg:text-left -mx-2">
+    <section class="container mx-auto py-4 px-4">
+      <div class="flex flex-wrap items-center text-center lg:text-left -mx-8 lg:-mx-2">
         <div class="lg:w-1/2 px-2 lg:pr-10 mt-10 lg:mt-0 order-1 lg:order-none">
           <h2 class="text-5xl mb-6 leading-tight font-semibold font-heading text-white">
               Edukujemy   

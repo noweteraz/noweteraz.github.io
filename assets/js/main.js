@@ -1,6 +1,3 @@
-/**
- * Dropdown menu
- */
 document.addEventListener('DOMContentLoaded', function() {
     const menus = document.querySelectorAll('.navbar-burger');
     const dropdowns = document.querySelectorAll('.navbar-menu');
@@ -15,3 +12,4 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 });
+

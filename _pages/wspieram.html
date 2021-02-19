@@ -6,9 +6,7 @@ permalink: "/wspieram/"
 ---
 
 <div class="container mx-auto px-4 py-12"> 
-    
-    <h2 class="text-5xl text-center mb-10 leading-tight font-bold font-heading">Jak możesz nas wesprzeć?</h2>
-  
+    <h1 class="text-5xl text-center mb-10 leading-tight font-bold font-heading">Jak możesz nas wesprzeć?</h1>
     <section class="py-12 px-4">
         <div class="flex flex-wrap items-center text-center lg:text-left -mx-2">
           <div class="lg:w-1/2 px-2"><img src="/assets/img/pomoc-wykluczonym.svg" alt="Przekaż wsparcie"></div>
@@ -29,8 +27,6 @@ permalink: "/wspieram/"
           </div>
         </div>
       </section>
-
-
       <section class="md:px-20 py-20 bg-gray-50">
         <div class="container mx-auto px-4">
           <div class="flex flex-wrap items-center justify-center -mx-4">
@@ -41,14 +37,20 @@ permalink: "/wspieram/"
             <div class="w-full lg:w-1/2 px-4">
               <div class="max-w-sm mx-auto lg:mr-0 lg:ml-auto">
                 <div class="mb-6 py-12 px-6 bg-white shadow rounded-t-3xl rounded-bl-3xl text-center">
-                    <form method="get" action="https://sklep.przelewy24.pl/zakup.php">
+                    <form id="donation" method="get" action="https://sklep.przelewy24.pl/zakup.php">
                         <input type="hidden" name="z24_id_sprzedawcy" value="97190">
                         <input type="hidden" name="z24_crc" value="eea36f0c">
                         <input type="hidden" name="z24_return_url" value="https://www.noweteraz.pl/donation-thanks/">
                         <input type="hidden" name="z24_nazwa" value="Darowizna na cele statutowe Fundacji Nowe Teraz">
                         <input type="hidden" name="z24_language" value="pl">
                         <input type="hidden" id="z24_kwota" name="z24_kwota">
-                        <input class="mb-6 py-2 px-3 w-full bg-gray-50 rounded leading-loose" type="text" id="z24_kwota_custom" name="z24_kwota_custom" placeholder="Wpisz kwotę darowizny np 20">
+                        <input class="mb-6 py-2 px-3 w-full bg-gray-50 rounded leading-loose" type="text" id="z24_kwota_custom" name="z24_kwota_custom" placeholder="Wpisz tylko kwotę np 20" required>
+                        <div class="mt-6 mb-6">
+                        <label for="rodo">
+                          <input id="rodo" type="checkbox" name="rodo">
+                          <span class="ml-1 text-xs text-gray-500 leading-3">Wyrażam zgodę na przetwarzanie przez Administratora Danych: {{ site.title }} moich danych osobowych zawartych w niniejszym formularzu w celu realizacji darowizny. <a target="_blank" class="text-blue-700 hover:underline" href="/polityka-prywatnosci/">Szczegóły naszej polityki prywatności</a>.</span>
+                        </label>
+                        </div>
                         <button class="mb-4 py-4 w-full rounded text-sm bg-indigo-600 hover:bg-indigo-700 text-white font-bold leading-normal transition duration-200" id="btnSubmit" type="submit">Wpłać</button>
                     </form>
                   </form>
@@ -62,6 +64,12 @@ permalink: "/wspieram/"
           </div>
         </div>
       </section>
-      
-
 </div>
+
+<script>
+  document.addEventListener('keyup', function(event) {
+  const input = document.querySelector('#z24_kwota_custom').value;
+  document.getElementById('z24_kwota').value = input*100;
+  });
+  const rodo = document.getElementById('rodo').required = true;
+</script>
