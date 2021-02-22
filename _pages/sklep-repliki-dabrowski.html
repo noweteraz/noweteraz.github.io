@@ -14,7 +14,7 @@ permalink: "/sklep-charytatywny/henryk-dabrowski/"
     {% if books.image contains '/uploads/products/' %}
     <section class="py-12 px-4">
         <div class="flex flex-wrap -mx-4">
-          <div class="lg:w-1/2 px-4 mb-4 lg:mb-0"><img class="rounded shadow max-w-lg lazyload" data-src="/assets/img/{{ books.image }}" alt="{{ books.title }}"></div>
+          <div class="lg:w-1/2 px-4 mb-4 lg:mb-0"><img class="rounded shadow lazyload" data-src="/assets/img/{{ books.image }}" alt="{{ books.title }}"></div>
           <div class="lg:w-1/2 px-4">
             <h2 class="text-gray-700 text-4xl mb-4 font-semibold font-heading">{{ books.title | markdownify }}</h2>
             <p class="mb-6 text-gray-500 leading-relaxed">{{ books.content | markdownify | replace: '<p>', '<p class="mb-4 text-gray-600">' }}</p>

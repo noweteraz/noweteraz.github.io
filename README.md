@@ -1,3 +1,3 @@
-## Nowe Teraz Foundation
+## Fundacja Nowe Teraz
 
-[www.noweteraz.pl](www.noweteraz.pl)
+[www.noweteraz.pl](https://www.noweteraz.pl)
