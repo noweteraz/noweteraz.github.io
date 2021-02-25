@@ -1,0 +1,41 @@
+<section>
+    <form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=FundacjaNoweTeraz', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+    <div class="skew skew-top ml-for-radius">
+      <svg class="h-8 md:h-12 lg:h-20 w-full text-gray-50" viewBox="0 0 10 10" preserveAspectRatio="none">
+        <polygon fill="currentColor" points="0 10 10 0 10 10"></polygon>
+      </svg>
+    </div>
+    <div class="py-20 bg-gray-50 radius-for-skewed">
+      <div class="container mx-auto px-4">
+        <div class="flex flex-wrap items-center">
+          <div class="mb-4 w-full lg:w-auto lg:mr-8 text-center">
+
+          </div>
+          <div class="mb-6 w-full lg:w-auto max-w-lg mx-auto lg:ml-0 mr-auto text-center lg:text-left">
+            <h2 class="text-4xl font-bold">Bądź zawsze na bieżąco</h2>
+            <p class="text-gray-500">Zapisz się na nasz Newsletter. Wszystkie nasze aktualności otrzymasz na swojego e-maila.</p>
+          </div>
+          <div class="w-full lg:w-2/5">
+            <form action="">
+              <div class="max-w-md lg:max-w-sm mx-auto flex flex-wrap items-center">
+                <input id="feedburner" class="flex-grow py-3 px-4 mr-4 text-xs rounded leading-loose" type="text" name="email" placeholder="Wpisz adres e-mail">
+                <input type="hidden" value="FundacjaNoweTeraz" name="uri"/>
+                <input type="hidden" name="loc" value="pl_PL"/>
+                <button type="submit" class="flex-none py-2 px-6 rounded-t-xl rounded-l-xl bg-indigo-600 hover:bg-indigo-700 text-gray-50 font-bold leading-loose transition duration-200">Zapisz się</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="skew skew-bottom ml-for-radius">
+      <svg class="h-8 md:h-12 lg:h-20 w-full text-gray-50" viewBox="0 0 10 10" preserveAspectRatio="none">
+        <polygon fill="currentColor" points="0 0 10 0 10 10"></polygon>
+      </svg>
+    </div>
+</form>
+</section>
+
+<script>
+const feed = document.getElementById('feedburner').required = true;
+</script>

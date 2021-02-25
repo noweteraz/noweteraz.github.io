@@ -65,7 +65,6 @@ exclude:
   - README.md
   - src
   - tailwind.config.js
-  - netlify.toml
 
 header_nav_left:
   Strona główna: "/"
@@ -113,3 +112,4 @@ geo:
 scripts_lazyload: |-
 
   <script src="/assets/js/lazysizes.min.js" async=""></script>
+

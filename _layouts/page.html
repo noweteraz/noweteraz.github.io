@@ -29,6 +29,7 @@ layout: compress
     
     <main>{{ content }}</main>
 
+    {% include section-newsletter.html %}
     {% include footer.html %}
     {% if jekyll.environment == "production" %}
     {% include cookie-consent.html %}
