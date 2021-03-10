@@ -60,7 +60,7 @@ task("startServer", () => {
 
   watch(
     [
-      "**/*.css",
+      //"**/*.css",
       "**/*.html",
       "**/*.js",
       "**/*.md",
