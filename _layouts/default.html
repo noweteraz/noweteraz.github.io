@@ -10,6 +10,22 @@ layout: compress
     <title>{% if page.url != '/' %} {{ page.title }} - {{ site.title }} {% else %} {{ site.title }}{% endif %}</title>
     {% seo title=false %}
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin />
+
+    <link rel="preload"
+      as="style"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" />
+
+    <link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap"
+      media="print" onload="this.media='all'" />
+
+    <noscript>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" />
+    </noscript>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}: Blog (RSS)" href="{{ site.url }}/feed.xml" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
