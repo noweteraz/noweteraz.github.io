@@ -39,6 +39,16 @@ layout: compress
     {% if jekyll.environment == "production" %}
     {% include google-analytics.html %}
     {% endif %}
+    {% if page.url == '/dziekujemy-za-wsparcie/' and jekyll.environment == "production" %}
+    <script>
+      gtag('event', 'conversion', {
+          'send_to': 'AW-409103409/ATe5CIeYm_4BELHYicMB',
+          'value': 10.0,
+          'currency': 'PLN',
+          'transaction_id': ''
+      });
+    </script>
+    {% endif %}
   </head>
   <body class="font-sans antialiased">
     {% include header.html %}
