@@ -1,7 +1,8 @@
 ---
 published: true
 date: 2020-11-09T07:00:00.000CET
-tags: 
+tags: [Vladimira]
+donate: 1
 image: /uploads/vladimir.jpg
 description: >-
    Vladimir od urodzenia ma lewostronny niedowład połowiczy. Potrzebuje aktywnej rehabilitacji.
@@ -50,9 +51,5 @@ _Jeśli masz możliwość nam pomóc, możesz po prostu bezpośrednio, do centru
 
 _Z ogromną wdzięcznością i wiarą w sercu Rodzina Dudińskich._
 
-Możesz wesprzeć nasz projekt i bezpośrednio wpłacać pieniądze na [nasze konto bankowe](https://www.noweteraz.pl/kontakt/). W tytule przelewu wpisz: **Darowizna na cele statutowe Fundacji Nowe Teraz** lub **Pomoc dla Vladimira**. 
-
-
-Zachęcamy do **skorzystania z gotowego formularza** do przelewów elektronicznych [on-line na tej stronie](https://www.noweteraz.pl/wspieram/).
 
 

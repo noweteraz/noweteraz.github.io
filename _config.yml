@@ -69,9 +69,11 @@ exclude:
 header_nav_left:
   Strona główna: "/"
   O fundacji: "/o-fundacji/"
+  Programy: "/programy/"
   Projekty: "/projekty/"
 
 header_nav_right:
+  Wesprzyj nas: "/wspieram/"
   Blog: "/blog/"
   Sklep: "/sklep-charytatywny/"
   Kontakt: "/kontakt/"

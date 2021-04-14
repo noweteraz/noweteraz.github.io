@@ -1,7 +1,8 @@
 ---
 published: true
 date: 2020-09-08T07:00:00.000CET
-tags: 
+tags: [Kuby Rydzika]
+donate: 1
 image: /uploads/kuba-rydzik-pomagamy-fundacja-nowe-teraz-fot-2.jpg
 description: >-
    Paweł Cwynar razem z Fundacją Nowe Teraz zaangażował się w projekt wspólnego wsparcia chorego na autyzm i padaczkę skroniową Kuby Rydzika.
@@ -25,8 +26,4 @@ _Przygarnęliśmy wyrzuconego wspaniałego kota Lucka. Lucek Jest ulubieńcem do
  
 _Jakub ma takie marzenia jak w miarę aktualny komputer PC z dostępem do internetu, czy konsolę z grami typu wyścigi czy zręcznościowe by ćwiczyć koordynację ruchową. Ma z tym problem. Bardzo lubi oglądać filmy o mikserach, kosiarkach i innych tego typu urządzeniach. Potrzebujemy szybkiego i solidnego smartfona bo Kuba bardzo lubi oglądać takie filmy. Jakub powinien jeździć na turnusy rehabilitacyjne dla autystów ale są one bardzo drogie kwoty rzędu 8000 zł i więcej. Na to nas obecnie nie stać._
 
-Możesz wesprzeć nasz projekt i bezpośrednio wpłacać pieniądze na [nasze konto bankowe](https://www.noweteraz.pl/kontakt/). W tytule przelewu wpisz: **Darowizna na cele statutowe Fundacji Nowe Teraz** lub **Pomoc dla Kuby**. 
-
-
-Zachęcamy do **skorzystania z gotowego formularza** do przelewów elektronicznych [on-line na tej stronie](https://www.noweteraz.pl/wspieram/).
 
