@@ -10,7 +10,7 @@ title: Klara
 
 Klara, osoba bezdomna od wielu lat. Jest także ciężko chora. Lekarze nie potrafią poprawnie zdiagnozować przyczyny choroby. Podopieczna Fundacji Nowe Teraz. Uczestniczy w programie "Domy Nowe Teraz".
 
-Z Klarą rozmawia Zdzisław Mac.
+Z Klarą rozmawia redaktor Zdzisław Mac.
 
 <div class="relative" style="padding-bottom: 56.25%">
 <iframe class="absolute w-full h-full" src="https://www.youtube.com/embed/S2Kouspq6UQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
