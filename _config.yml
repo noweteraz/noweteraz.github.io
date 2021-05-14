@@ -9,6 +9,8 @@ logo: /assets/img/logo-www-150x150.png
 
 locale: pl_PL
 
+future: false 
+
 social:
   name: Fundacja Nowe Teraz
   links:
