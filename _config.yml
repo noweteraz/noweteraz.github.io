@@ -11,6 +11,8 @@ locale: pl_PL
 
 future: false 
 
+timezone: Europe/Warsaw
+
 social:
   name: Fundacja Nowe Teraz
   links:
