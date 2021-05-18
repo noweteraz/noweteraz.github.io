@@ -81,14 +81,14 @@ permalink: "/misja-kamerun/"
           <input type="hidden" name="z24_nazwa" value="Darowizna na Misję Kamerun">
           <input type="hidden" name="z24_language" value="pl">
           <input type="hidden" id="z24_kwota" name="z24_kwota">
-          <input class="mb-6 py-2 px-3 w-full bg-gray-50 rounded leading-loose" type="text" id="z24_kwota_custom" name="z24_kwota_custom" placeholder="Wpisz tylko kwotę np 20" pattern="\d*" required>
+          <input class="mb-6 py-2 px-3 w-full bg-gray-50 rounded leading-loose" type="text" id="z24_kwota_custom" name="z24_kwota_custom" placeholder="Wpisz tylko kwotę np 20" pattern="\d*" required disabled>
           <div class="mt-6 mb-6">
           <label for="rodo">
-            <input id="rodo" type="checkbox" name="rodo">
+            <input id="rodo" type="checkbox" name="rodo" disabled>
             <span class="ml-1 text-xs text-gray-500 leading-3">Wyrażam zgodę na przetwarzanie przez Administratora Danych: {{ site.title }} moich danych osobowych zawartych w niniejszym formularzu w celu realizacji darowizny. <a target="_blank" class="text-blue-700 hover:underline" href="/polityka-prywatnosci/">Szczegóły naszej polityki prywatności</a>.</span>
           </label>
           </div>
-          <button class="mb-4 py-4 w-full rounded text-sm bg-indigo-600 hover:bg-indigo-700 text-white font-bold leading-normal transition duration-200" id="btnSubmit" type="submit">Przekaż darowiznę</button>
+          <button class="mb-4 py-4 w-full rounded text-sm bg-indigo-600 hover:bg-indigo-700 text-white font-bold leading-normal transition duration-200" id="btnSubmit" type="button">Przekaż darowiznę</button>
       </form>
     <p class="text-xs text-gray-400">
       <span>Transakcje obsługuje serwis </span>
@@ -104,7 +104,7 @@ permalink: "/misja-kamerun/"
         </p>
         <form class="inline-block pl-6 pr-8 pt-8 pb-4 relative text-white bg-gray-100 text-center" style="border-radius: 91% 9% 90% 10% / 29% 82% 18% 71%" action="https://www.paypal.com/donate" method="post" target="_top">
           <input type="hidden" name="hosted_button_id" value="FGAGAXUU3HBFN" />
-          <input type="image" src="https://www.paypalobjects.com/pl_PL/PL/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Darowizna na Misję Kamerun" />
+          <input type="image" src="https://www.paypalobjects.com/pl_PL/PL/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Darowizna na Misję Kamerun" disabled>
           <img alt="" border="0" src="https://www.paypal.com/pl_PL/i/scr/pixel.gif" width="1" height="1" />
           </form>
           <p class="text-xs text-gray-400 pt-8">
