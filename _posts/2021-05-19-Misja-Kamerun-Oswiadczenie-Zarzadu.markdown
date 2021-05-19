@@ -5,7 +5,7 @@ tags: null
 image: /uploads/fundacja-nowe-teraz-default-image.jpg
 description: >-
             W związku z publikacjami na portalu wyborcza.pl dotyczącymi misji katolickiej w Kamerunie prowadzonej przez ojca Dariusza Godawę oświadczamy, że Fundacja Nowe Teraz obecnie nie współpracuje z ojcem Dariuszem Godawą ani Stowarzyszeniem Przyjaciół Dzieci Słońca. 
-title: Oswiadczenie Zarządu Fundacji Nowe Teraz
+title: Oświadczenie Zarządu Fundacji Nowe Teraz
 ---
 
 W związku z publikacjami na portalu wyborcza.pl dotyczącymi misji katolickiej w Kamerunie prowadzonej przez ojca Dariusza Godawę oświadczamy, że Fundacja Nowe Teraz obecnie nie współpracuje z ojcem Dariuszem Godawą ani Stowarzyszeniem Przyjaciół Dzieci Słońca. 
