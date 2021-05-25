@@ -8,6 +8,7 @@ description: >-
 title: Ścieżka edukacyjna "Edukacja Historyczna" dla dzieci i młodzieży
 --- 
 
+![Logo](/assets/img/logo-nowe-teraz-fundacja-ppp.jpg){: .max-w-full .mx-auto}
 
 W ramach projektu *Wiem, bo czytam* Fundacja Nowe Teraz wspólnie z Fundacją Polskiego Państwa Podziemnego uruchamiają specjalną ścieżkę edukacyjną pod nazwą *Edukacja Historyczna*. 
 
@@ -20,6 +21,7 @@ Na początek **mamy do rozdania kilka tysięcy książek** Arkadego Fiedlera *Dy
 ![Książka Dywizjon 303](/assets/img/uploads/dywizjon-303-arkady-fiedler-ksiazka-wersja-filmowa.jpg)
 
 **Program wspierają**: Wydawnictwo Bernardinum, Przedsiębiorstwo "BYŚ", Dekada S.A.
+![Baner](/assets/img/sciezka-edukacyjna-baner-wspierajacy.jpg){: .max-w-full .mx-auto .my-10}
 
 
-Pobierz informację w pliku: [Ścieżka edukacyjna "Edukacja Historyczna"](/assets/files/historyczna-sciezka-edukacyjna-dywizjon-303.pdf)
+Pobierz informację o programie w pliku PDF: [Ścieżka edukacyjna "Edukacja Historyczna"](/assets/files/historyczna-sciezka-edukacyjna-dywizjon-303.pdf)
