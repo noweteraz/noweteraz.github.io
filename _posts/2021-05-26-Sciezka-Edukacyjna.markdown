@@ -12,7 +12,7 @@ title: Ścieżka edukacyjna "Edukacja Historyczna" dla dzieci i młodzieży
 
 W ramach projektu *Wiem, bo czytam* Fundacja Nowe Teraz wspólnie z Fundacją Polskiego Państwa Podziemnego uruchamiają specjalną ścieżkę edukacyjną pod nazwą *Edukacja Historyczna*. 
 
-Ścieżka jest przeznaczona dla dzieci i młodzieży ze Szkół Podstawowych, z Domów Dziecka, Młodzieżowych Ośrodków Wychowawczych, Zakładów Poprawczych i Młodzieżowych Ośrodków Socjoterapii. 
+Ścieżka jest przeznaczona dla dzieci i młodzieży ze Szkół Podstawowych i Ponadpodstawowych, z Domów Dziecka, Młodzieżowych Ośrodków Wychowawczych, Zakładów Poprawczych i Młodzieżowych Ośrodków Socjoterapii oraz dzieci osób uwięzionych. 
 
 Zgłoszenia do programu można składać przez formularz rejestracyjny [na tej stronie Fundacji Nowe Teraz](https://docs.google.com/forms/d/e/1FAIpQLScIizZZ1qBkMHGM3cOMgHJI-h5PvX_8BhM_6AgPkTYCKje-zQ/viewform). 
 
