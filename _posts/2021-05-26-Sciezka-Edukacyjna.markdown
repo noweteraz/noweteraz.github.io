@@ -4,9 +4,11 @@ date: '2021-05-25 03:00:00'
 tags: null
 image: /uploads/Dywizjon_303.jpg
 description: >-
-            Wspólnie z Fundacją Polskiego Państwa Podziemnego uruchamiamy specjalną ścieżkę edukacyjną pod nazwą Edukacja Historyczna.
+  Wspólnie z Fundacją Polskiego Państwa Podziemnego uruchamiamy specjalną
+  ścieżkę edukacyjną pod nazwą Edukacja Historyczna.
 title: Ścieżka edukacyjna "Edukacja Historyczna" dla dzieci i młodzieży
---- 
+---
+ 
 
 ![Logo](/assets/img/logo-nowe-teraz-fundacja-ppp.jpg){: .max-w-full .mx-auto}
 
@@ -20,7 +22,7 @@ Na początek **mamy do rozdania kilka tysięcy książek** Arkadego Fiedlera *Dy
 
 ![Książka Dywizjon 303](/assets/img/uploads/dywizjon-303-arkady-fiedler-ksiazka-wersja-filmowa.jpg)
 
-**Program wspierają**: Wydawnictwo Bernardinum, Przedsiębiorstwo "BYŚ", Dekada S.A.
+**Program wspierają**: Wydawnictwo Bernardinum, Przedsiębiorstwo "BYŚ", Dekada S.A., Eko-Efekt Sp. z o.o.
 ![Baner](/assets/img/sciezka-edukacyjna-baner-wspierajacy.jpg){: .max-w-full .mx-auto .my-10}
 
 
