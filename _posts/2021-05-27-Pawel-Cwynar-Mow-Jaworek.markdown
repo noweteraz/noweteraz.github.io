@@ -1,6 +1,6 @@
 ---
 published: true
-date: '2021-05-27 10:00:00'
+date: '2021-05-27 07:00:00'
 tags: null
 image: >-
   /uploads/fundacja-nowe-teraz-projekt-czytam-wiec-swiadomie-wybieram-mow-jaworek.jpg
