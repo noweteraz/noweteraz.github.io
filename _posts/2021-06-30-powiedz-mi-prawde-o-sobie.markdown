@@ -17,6 +17,6 @@ Oddajemy do rąk Czytelników biografię O. Grzegorza Ciorocha OFMConv (1962-200
 
 Książka opisuje rosyjską Misję szlachetnego zakonnika na szerokim tle sytuacji Kościoła Katolickiego w Rosji. Dotyka trudnych kwestii i wyborów, wobec których stanął bohater, zmagając się z działaniami służb specjalnych. Nieulękniony, zakładając kolejne parafie, powtarzał: "My, Franciszkanie, jesteśmy wezwani być odważnymi dla Chrystusa.  Nasze bezpieczeństwo to gotowość zaryzykowania dla Niego”. 
 
-Jest to jednocześnie pierwsza publikacja, która szczegółowo opisuje mechanizm prześladowań wewnątrzzakonnych w oparciu o dokumenty. Nawet majestat męczeńskiej śmierci nie przerwał ich, czego skutkiem była trwająca 18 lat zmowa milczenia o tym wybitnym misjonarzu spoczywającym na cmentarzu w Niepokalanowie.
+Jest to jednocześnie pierwsza publikacja, która szczegółowo opisuje mechanizm prześladowań wewnątrzzakonnych w oparciu o dokumenty. Nawet majestat męczeńskiej śmierci nie przerwał ich, czego skutkiem była trwająca 17 lat zmowa milczenia o tym wybitnym misjonarzu spoczywającym na cmentarzu w Niepokalanowie.
 
 Książkę można kupić w naszym sklepie charytatywnym [pod tym adresem:](/sklep-charytatywny/ksiazki-pozostale/).
