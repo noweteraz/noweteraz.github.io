@@ -20,3 +20,6 @@ Książka opisuje rosyjską Misję szlachetnego zakonnika na szerokim tle sytuac
 Jest to jednocześnie pierwsza publikacja, która szczegółowo opisuje mechanizm prześladowań wewnątrzzakonnych w oparciu o dokumenty. Nawet majestat męczeńskiej śmierci nie przerwał ich, czego skutkiem była trwająca 17 lat zmowa milczenia o tym wybitnym misjonarzu spoczywającym na cmentarzu w Niepokalanowie.
 
 Książkę można kupić w naszym sklepie charytatywnym [pod tym adresem:](/sklep-charytatywny/ksiazki-pozostale/).
+
+Wydawca oraz partner naszego projektu: **Wydawnictwo Bernardinum**.
+![Wydawnictwo Bernardinum](/uploads/logotyp-bernardinum-www.jpg)
