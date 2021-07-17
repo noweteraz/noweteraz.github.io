@@ -50,7 +50,7 @@ Szanowni Państwo,*
 
 *PS. Jeżeli macie jakieś pytania chcielibyście otrzymać ode mnie jakieś dodatkowe informacje dotyczące Grzegorza to pozwalam sobie pozostawić adres mojej poczty elektronicznej: chudecki@wp.pl.*
 
-*Książkę wydaną prze Wydawnictwo Bernardinum rozprowadza FUNDACJI NOWE TERAZ, w zamian za darowiznę na cele statutowe. Informacje można zamawiać pod adresem: zarzad@noweteraz.pl.*
+*Książkę wydaną prze Wydawnictwo Bernardinum rozprowadza FUNDACJI NOWE TERAZ, w zamian za darowiznę na cele statutowe. Informacje można zamawiać pod adresem:zarzad@noweteraz.pl.*
 
 
 Można też pobrać list w pliku PDF: [List Tadeusza Chudeckiego](/assets/files/tadeusz-chudecki-wspomnienie-o-grzegorzu-ciorochu.pdf)
