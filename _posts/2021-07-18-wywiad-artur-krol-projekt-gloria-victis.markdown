@@ -4,7 +4,8 @@ date: '2021-07-19 07:00:00'
 tags: null
 image: /uploads/wywiad-artur-krol-nowe-teraz-projekt-gloria-victis.jpg
 description: >-
-            Artur Król, prezes Fundacji "Nowe Teraz" o patriotycznym projekcie charytatywnym "Gloria Victis". 
+  Artur Król, prezes Fundacji Nowe Teraz o patriotycznym projekcie charytatywnym
+  "Gloria Victis". 
 title: Wywiad z prezesem Arturem Królem
 ---
 
