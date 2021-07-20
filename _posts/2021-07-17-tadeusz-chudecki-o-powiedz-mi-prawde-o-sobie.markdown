@@ -4,7 +4,9 @@ date: '2021-07-17 07:00:00'
 tags: null
 image: /uploads/tadeusz-chudecki-o-przyjacielu-grzegorzu-ciorochu.jpg
 description: >-
-  Historia Ojca Grzegorza jest niezwykła i nie może być zapomniana. Przede wszystkim musi być jednak ujawniona i wyjaśniona – bo to historia tyleż tragiczna co i piękna.
+  Historia Ojca Grzegorza jest niezwykła i nie może być zapomniana. Przede
+  wszystkim musi być jednak ujawniona i wyjaśniona – bo to historia tyleż
+  tragiczna co i piękna.
 title: Przyjaciel wspomina o. Grzegorza Ciorocha
 ---
 
@@ -50,7 +52,7 @@ Szanowni Państwo,*
 
 *PS. Jeżeli macie jakieś pytania chcielibyście otrzymać ode mnie jakieś dodatkowe informacje dotyczące Grzegorza to pozwalam sobie pozostawić adres mojej poczty elektronicznej: chudecki@wp.pl.*
 
-*Książkę wydaną prze Wydawnictwo Bernardinum rozprowadza FUNDACJI NOWE TERAZ, w zamian za darowiznę na cele statutowe. Informacje można zamawiać pod adresem:zarzad@noweteraz.pl.*
+*Książkę wydaną prze Wydawnictwo Bernardinum rozprowadza FUNDACJA NOWE TERAZ, w zamian za darowiznę na cele statutowe. Informacje można zamawiać pod adresem:zarzad@noweteraz.pl.*
 
 
 Można też pobrać list w pliku PDF: [List Tadeusza Chudeckiego](/assets/files/tadeusz-chudecki-wspomnienie-o-grzegorzu-ciorochu.pdf)
