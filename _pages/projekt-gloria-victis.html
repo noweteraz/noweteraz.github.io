@@ -1,0 +1,94 @@
+---
+title: Projekt Gloria Victis
+description: Przekaż wsparcie dla Fundacji Nowe Teraz.
+layout: page
+permalink: "/projekt-gloria-victis/"
+---
+
+<div class="container mx-auto px-4 py-12"> 
+    <h1 class="text-5xl text-center mb-10 leading-tight font-bold font-heading">Projekt Gloria Victis</h1>
+    <section class="py-12 px-4">
+        <div class="flex flex-wrap items-center text-center lg:text-left -mx-2">
+          <div class="lg:w-1/2 px-2"><img src="/assets/img/uploads/projekt-gloria-victis-fundacja-nowe-teraz.jpg" alt="Logo Gloria Victise"></div>
+          <div class="lg:w-1/2 px-2 lg:pl-16 mt-10 lg:mt-0">
+            <h2 class="text-4xl px-4 mb-4 leading-tight font-semibold font-heading">Chcesz pomóc w realizacji naszej misji?</h2>
+            <div class="p-4 mb-4 rounded shadow-md">
+              <h3 class="text-2xl mb-2 font-semibold font-heading">1. Czym jest projekt Gloria Victis?</h3>
+              <p class="text-gray-500 leading-relaxed"><a class="text-blue-700 hover:underline" href="#pay-one">Możesz wpłacić dowolną kwotę</a> za pomocą przelewu tradycyjnego lub elektronicznego w trybie on-line.</p>
+            </div>
+            <div class="p-4 mb-4 rounded shadow-md">
+              <h3 class="text-2xl mb-2 font-semibold font-heading">2. Wpłacaj co miesiąc zadeklarowaną kwotę</h3>
+              <p class="text-gray-500 leading-relaxed">Możesz wpłacać co miesiąc <a class="text-blue-700 hover:underline" href="#pay-many">zadeklarowaną kwotę pieniędzy</a>. Skorzystaj z naszych zdefiniowanych płatności.</p>
+            </div>
+            <div class="p-4 mb-4 rounded shadow-md">
+              <h3 class="text-2xl mb-2 font-semibold font-heading">3. Zrób zakupy w naszej Galerii Charytatywnej</h3>
+              <p class="text-gray-500 leading-relaxed">Możesz dokonać zakupu w naszej <a class="text-blue-700 hover:underline" href="/sklep-charytatywny/henryk-dabrowski/">Galerii Charytatywnej</a>. Dochód ze sprzedaży przeznaczamy na realizację naszej misji.</p>
+            </div>
+            <div class="p-4 mb-4 rounded shadow-md">
+              <h3 class="text-2xl mb-2 font-semibold font-heading">4. Kup jedną z naszych książek</h3>
+              <p class="text-gray-500 leading-relaxed">Kupując jedną z naszych książek w <a class="text-blue-700 hover:underline" href="/sklep-charytatywny/">Sklepie Charytatywnym</a> pomagasz naszym podopiecznym, szczególnie dzieciom z trudnymi do leczenia schorzeniami.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="pay-one" class="md:px-20 py-20 bg-gray-50">
+        <div class="container mx-auto px-4">
+          <div class="flex flex-wrap items-center justify-center -mx-4">
+            <div class="mb-16 lg:mb-0 max-w-2xl lg:w-1/2 px-4">
+              <h2 class="mb-4 text-4xl font-bold font-heading">Przekaż darowiznę pieniężną </h2>
+              <p class="mb-8 text-gray-600 leading-loose">Wprowadź dowolną kwotę, którą chcesz nam jednorazowo przekazać i kliknij <strong>Wpłać</strong>. Zostaniesz przekierowany do formularza darowizny. Możesz także przesłać nam przelew tradycyjny. Nr konta bankowego znajduje się <a class="text-blue-700 hover:underline" href="/kontakt/">na tej stronie</a>. Pamiętaj aby w tytule przelewu był zapis: <em>Darowizna na cele statutowe Fundacji Nowe Teraz</em>.</p>
+            </div>
+            <div class="w-full lg:w-1/2 px-4">
+              <div class="max-w-sm mx-auto lg:mr-0 lg:ml-auto">
+                <div class="mb-6 py-12 px-6 bg-white shadow rounded-t-3xl rounded-bl-3xl text-center">
+                    <form id="donation" method="get" action="https://sklep.przelewy24.pl/zakup.php">
+                        <input type="hidden" name="z24_id_sprzedawcy" value="97190">
+                        <input type="hidden" name="z24_crc" value="eea36f0c">
+                        <input type="hidden" name="z24_return_url" value="https://www.noweteraz.pl/dziekujemy-za-wsparcie/">
+                        <input type="hidden" name="z24_nazwa" value="Darowizna na cele statutowe Fundacji Nowe Teraz">
+                        <input type="hidden" name="z24_language" value="pl">
+                        <input type="hidden" id="z24_kwota" name="z24_kwota">
+                        <input class="mb-6 py-2 px-3 w-full bg-gray-50 rounded leading-loose" type="text" id="z24_kwota_custom" name="z24_kwota_custom" placeholder="Wpisz tylko kwotę np 20" pattern="\d*" required>
+                        <div class="mt-6 mb-6">
+                        <label for="rodo">
+                          <input id="rodo" type="checkbox" name="rodo">
+                          <span class="ml-1 text-xs text-gray-500 leading-3">Wyrażam zgodę na przetwarzanie przez Administratora Danych: {{ site.title }} moich danych osobowych zawartych w niniejszym formularzu w celu realizacji darowizny. <a target="_blank" class="text-blue-700 hover:underline" href="/polityka-prywatnosci/">Szczegóły naszej polityki prywatności</a>.</span>
+                        </label>
+                        </div>
+                        <button class="mb-4 py-4 w-full rounded text-sm bg-indigo-600 hover:bg-indigo-700 text-white font-bold leading-normal transition duration-200" id="btnSubmit" type="submit">Przekaż darowiznę</button>
+                    </form>
+                  <p class="text-xs text-gray-400">
+                    <span>Transakcje obsługuje serwis </span>
+                    <span class="text-gray-800">Przelewy24.pl</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="pay-many" class="py-12 px-4 text-center">
+        <div class="w-full max-w-2xl mx-auto">
+          <h2 class="text-4xl leading-tight font-bold font-heading">Wpłacaj co miesiąc zadeklarowaną kwotę pieniędzy</h2>
+          <p class="mt-6 mb-2 text-gray-600 leading-loose">Przy pomocy poniższego przycisku możesz ustanowić comiesięczną kwotę darowizny na rzecz naszej fundacji. Jako źródło płatności możesz wybrać konto PayPal, kartę kredytową lub debetową.</p>
+        </div>
+      </section>
+      <section class="py-8 px-4">
+        <div class="-mx-4 text-center">
+          <form class="inline-block pl-6 pr-8 pt-8 pb-4 relative text-white bg-gray-100" style="border-radius: 91% 9% 90% 10% / 29% 82% 18% 71%" action="https://www.paypal.com/donate" method="post" target="_top">
+            <input type="hidden" name="hosted_button_id" value="M7Y8XN9N7Y654" />
+            <input type="image" src="https://www.paypalobjects.com/pl_PL/PL/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Darowizna na rzecz Fundacji Nowe Teraz" />
+            <img alt="Przycisk darowizny" border="0" src="https://www.paypal.com/pl_PL/i/scr/pixel.gif" width="1" height="1" />
+            </form>
+        </div>
+      </section>
+</div>
+
+<script>
+  document.addEventListener('keyup', function(event) {
+  const input = document.querySelector('#z24_kwota_custom').value;
+  document.getElementById('z24_kwota').value = input*100;
+  });
+  const rodo = document.getElementById('rodo').required = true;
+</script>
+
