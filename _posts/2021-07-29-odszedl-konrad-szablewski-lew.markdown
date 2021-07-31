@@ -4,13 +4,15 @@ date: '2021-07-29 07:00:00'
 tags: null
 image: /uploads/konrad-szablewski-lew.jpg
 description: >-
-  W wieku 90 lat w Monako odszedł na wieczną wartę Konrad Szablewski ps. "Lew", żołnierz AK i Powstania Warszawskiego, harcerz Szarych Szeregów, po wojnie wybitny architekt.
-title: Odszedł Konrad Szablewski ps. "Lew"
+  W wieku 90 lat w Monako odszedł na wieczną wartę Konrad Szablewski ps. "Lew",
+  żołnierz AK i Powstania Warszawskiego, harcerz Szarych Szeregów, po wojnie
+  wybitny architekt.
+title: Odszedł Konrad Szabelewski ps. "Lew"
 ---
 
 Msza św. żałobna odprawiona zostanie w Katedrze Polowej Wojska Polskiego pw. Najświętszej Maryi Panny Królowej Polski w Warszawie, dnia 4 sierpnia 2021 r, o godz. 12.00. Po ceremonii nastąpi odprowadzenie zmarłego na miejsce spoczynku do grobu rodzinnego na Cmentarzu Wojskowym.
 
-**Konrad Szablewski ps. "Lew"**
+**Konrad Szabelewski ps. "Lew"**
 
 Pragniemy przybliżyć Państwu sylwetkę wybitnego architekta, który swoje młode lata poświęcił harcerstwu, najpierw wstępując w 1937 r. do gromady Zuchów przy 43 W.D.H. im Bolesława Prusa, by następnie po wybuchu II wojny światowej zaangażować się w działalność konspiracyjną Szarych Szeregów. 
 
@@ -23,4 +25,3 @@ I tak przyłącza się do Zgrupowania „Chrobry II”.7 -go października 1944 
 W 1960 roku, wspólnie z dwoma kolegami ze studiów, Januszem Mateckim i Stefanem Mareszem, otworzyli pracownię architektoniczną Atelier 3, która działała we Francji i na Korsyce do 1978 roku, realizując kilkaset obiektów. Od 1987 do 1993 roku wykładał w Wyższej Szkole Architektury, Urbanistyki i Przestrzeni przy ULCA w Nicei. Zaprojektował i zrealizował liczne wille i rezydencje, zespoły mieszkalne, miasteczka, szpital, hotele, a także wnętrza oraz zajmował się pracami konserwatorskimi zabytków. W 2020 roku przeszedł na częściową emeryturę, zmniejszając aktywność zawodową. W 1957 r. opuszcza Polskę i mieszka poza nią do śmierci...
 
 [Zachęcamy do przeczytania wywiadu z architektem Konradem Szabelewskim na stronie Muzeum Powstania Warszawskiego.](https://www.1944.pl/archiwum-historii-mowionej/konrad-szabelewski,3556.html)
-
