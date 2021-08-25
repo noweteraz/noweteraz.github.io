@@ -10,11 +10,14 @@ title: 77 rocznica zdobycia gmachu PAST-y
 
 Wydarzenie rozpoczęło się odprawieniem mszy świętej w Kościele Wszystkich Świętych na Placu Grzybowskim, w intencji poległych Żołnierzy Armii Krajowej. 
 
-Następnie poczty sztandarowe, delegacje urzędów, organizacji i samorządów udały się przed tablicę upamiętniającą Dowódcę i Powstańców Batalionu „Kiliński” oraz wszystkich oddziałów powstańczych, które zdobywały PAST-ę. 
+Następnie poczty sztandarowe, delegacje urzędów i przedstawicieli władz państwowych, organizacji i samorządów udały się przed tablicę upamiętniającą Dowódcę płk. Henryka Leliwę-Roycewicza i Powstańców Batalionu „Kiliński” oraz wszystkich oddziałów powstańczych, które zdobywały PAST-ę. 
 
-Poległych żołnierzy upamiętniono chwilą ciszy oraz złożono kwiaty przed tablicą pamiątkową.
+Poległych żołnierzy upamiętniono chwilą ciszy. 
 
-20 sierpnia 1944 r. żołnierze z Batalionu AK Kiliński pokonali załogę niemiecką, która broniła gmach Polskiej Akcyjnej Spółki Telefonicznej. Na  machu PAST-y, przy ul. Zielnej, zawisła biało-czerwona flaga. Zdobycie tego budynku było jednym z największych sukcesów Powstania Warszawskiego.
+Na zakończenie uroczystości przed tablicą umieszczoną w pobliżu wejścia do gmachu PAST-y, złożone zostały wieńce i wiązanki kwiatów przez przedstawicieli władz państwowych - Prezydenta oraz Premiera RP, władz samorządowych, organizacji porzarządowych, żołnierzy Wojska Polskiego oraz Wojsk Obrony Terytorialnej, poczty sztandarowe i mieszkańców Warszawy.
+
+
+20 sierpnia 1944 r. żołnierze z Batalionu AK Kiliński, dowodzonego przez płk. Henryka Leliwę-Roycewicza, pokonali załogę niemiecką, która broniła gmachu Polskiej Akcyjnej Spółki Telefonicznej. Na  gmachu PAST-y, przy ul. Zielnej, zawisła biało-czerwona flaga. Zdobycie tego budynku było jednym z największych sukcesów Powstania Warszawskiego.
 
 
 ![77 rocznica zdobycia gmachu PAST-y fot.1](/assets/img/uploads/77-rocznica-zdobycia-pasty-1.jpg)
