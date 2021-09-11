@@ -8,7 +8,7 @@ description: >-
 title: Beatyfikacja kardynała Stefana Wyszyńskiego
 ---
 
-Uchwałą Sejmu i Senatu RP rok 2021 ogłoszony został rokiem kardynała Stefana Wyszyńskiego, w 120. rocznicę urodzin i 40. rocznicę śmierci. Jego punktem kulminacyjnym będzie dzień 12 września 2021 r., gdy w Świątyni Opatrzności Bożej w Warszawie odbędzie msza beatyfikacyjna.
+Uchwałą Sejmu i Senatu RP rok 2021 ogłoszony został rokiem kardynała Stefana Wyszyńskiego, w 120. rocznicę urodzin i 40. rocznicę śmierci. Jego punktem kulminacyjnym będzie dzień 12 września 2021 r., gdy w Świątyni Opatrzności Bożej w Warszawie odbędzie się msza beatyfikacyjna.
 
 12 września zaplanowano kinową premierę filmu fabularnego „Wyszyński – zemsta czy przebaczenie”. Obchodom towarzyszyć będzie również wydanie książki „Ojciec wolnych ludzi” poświęconej postaci Kardynała.
 
