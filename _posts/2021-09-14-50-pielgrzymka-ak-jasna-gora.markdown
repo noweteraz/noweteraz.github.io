@@ -4,7 +4,7 @@ date: '2021-09-14 07:00:00'
 tags: null
 image: /uploads/pielgrzymka-kombatantow-ak-na-jasna-gora-2021.jpg
 description: >-
-  W tym roku 12-go września z pielgrzymami byli również przedstawiciele Fundacji Nowe Teraz.
+  W tym roku 12 września z pielgrzymami byli również przedstawiciele Fundacji Nowe Teraz.
 title: Żołnierze i środowisko Armii Krajowej w 50. pielgrzymce na Jasną Górę
 ---
 
