@@ -14,7 +14,14 @@ W pielgrzymce uczestniczyli kombatanci z profesorem Leszkiem Żukowskim na czele
 
 Pielgrzymi, w asyście Pocztów Sztandarowych złożyli kwiaty i zapalili znicze pamięci pod pomnikiem papieża Jana Pawła II oraz Kardynała Stefana Wyszyńskiego, kapelana wspierającego żołnierzy Armii Krajowej w czasie okupacji i Powstania Warszawskiego. 
 
-Szczególną okazją była odbywająca się tego samego dnia beatyfikacja Czcigodnych Sług Bożych - Prymasa Tysiąclecia Kardynała Stefana Wyszyńskiego i Siostry Elżbiety Róży Czackiej. Podążanie do świętości każdego z nich było spełnieniem własnego powołania, w tym dążeniu wzajemnie się wspierali i uzupełniali. Cierniste były początki ich życia, Siostra Czapska niewidoma dziewczyna i Stefan Wyszyński młody chory kleryk, życia jednak pełnego ufności i zwieńczonego błogosławionym zakończeniem.
+Szczególną okazją była odbywająca się tego samego dnia beatyfikacja Czcigodnych Sług Bożych - Prymasa Tysiąclecia Kardynała Stefana Wyszyńskiego i Siostry Elżbiety Róży Czackiej. Podążanie do świętości każdego z nich było spełnieniem własnego powołania, w tym dążeniu wzajemnie się wspierali i uzupełniali. Cierniste były początki ich życia, Siostra Czapska niewidoma dziewczyna i Stefan Wyszyński młody chory kleryk, życia jednak pełnego ufności i zakończonego beatyfikacją.
 
 Następnie pielgrzymi przeszli do Bazyliki Jasnogórskiej, gdzie wzięli udział w celebrowanej przez sześciu kapłanów mszy świętej, w intencji Żołnierzy AK i Harcerzy ze związku ZHR.
 
+[![Pielgrzymka kombatantów Armii Krajowej na Jasną Górę fot.1](/assets/img/uploads/pielgrzymka-kombatantow-ak-na-jasna-gora-2021.jpg "Powiększ zdjęcie")](/assets/img/uploads/pielgrzymka-kombatantow-ak-na-jasna-gora-2021-full.jpg){:target="_blank"}
+
+![Pielgrzymka kombatantów Armii Krajowej na Jasną Górę fot.2](/assets/img/uploads/pielgrzymka-kombatantow-ak-na-jasna-gora-2021-fot-2.jpg)
+
+![Pielgrzymka kombatantów Armii Krajowej na Jasną Górę fot.3](/assets/img/uploads/pielgrzymka-kombatantow-ak-na-jasna-gora-2021-fot-3.jpg)
+
+![Pielgrzymka kombatantów Armii Krajowej na Jasną Górę fot.4](/assets/img/uploads/pielgrzymka-kombatantow-ak-na-jasna-gora-2021-fot-4.jpg)
