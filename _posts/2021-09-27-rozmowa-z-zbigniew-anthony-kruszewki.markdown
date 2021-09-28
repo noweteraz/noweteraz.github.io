@@ -4,8 +4,9 @@ date: '2021-09-27 07:00:00'
 tags: null
 image: /uploads/rozmowa-anthony-kruszewski.jpg
 description: >-
-   Wywiad redaktora Macieja Małka z powstańcem warszawskim ps. Jowisz, harcerzem, profesorem politologii Zbigniewem Anthony Kruszewskim. 
-title: Rozmowa ze Zbigniewem Anthony Kruszewskim
+  Wywiad redaktora Macieja Małka z powstańcem warszawskim ps. Jowisz, harcerzem,
+  profesorem politologii Zbigniewem Anthony Kruszewskim. 
+title: Rozmowa z prof. Zbigniewem Anthony Kruszewskim
 ---
 
 Rozmowa redaktora Macieja Małka ze Zbigniewem Anthony Kruszewskim - harcerzem, powstańcem warszawskim ps. Jowisz, emigrantem, profesorem, a także wiceprezesem Kongresu Polonii Amerykańskiej i politologiem na Uniwersytecie Chicagowskim, nowojorskim SUNY i w El Paso.
