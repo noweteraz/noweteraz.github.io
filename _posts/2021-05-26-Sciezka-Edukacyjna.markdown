@@ -18,7 +18,7 @@ W ramach projektu *Wiem, bo czytam* Fundacja Nowe Teraz wspólnie z Fundacją Po
 
 Zgłoszenia do programu można składać przez formularz rejestracyjny [na tej stronie Fundacji Nowe Teraz](https://docs.google.com/forms/d/e/1FAIpQLScIizZZ1qBkMHGM3cOMgHJI-h5PvX_8BhM_6AgPkTYCKje-zQ/viewform). 
 
-Na początek **mamy do rozdania kilka tysięcy książek** Arkadego Fiedlera *Dywizjon 303* (wersja filmowa). 
+W ramach programu **rozdaliśmy już kilkaset książek** Arkadego Fiedlera *Dywizjon 303* (wersja filmowa). 
 
 ![Książka Dywizjon 303](/assets/img/uploads/dywizjon-303-arkady-fiedler-ksiazka-wersja-filmowa.jpg)
 
