@@ -1,10 +1,12 @@
 ---
 published: true
-date: '2021-10-16 07:00:00'
+date: '2021-10-26 07:00:00'
 tags: null
 image: /uploads/konferencja-naleczow-40-lecie-pracy-naukowej-a-balandynowicz-3.jpg
 description: >-
-  W dniu 25 października 2021 roku w Nałęczowie odbyła się konferencja naukowa pt "Znaczenie literatury pięknej i sztuki na tle upadku edukacji instytucjonalnej".
+  W dniu 25 października 2021 roku w Nałęczowie odbyła się konferencja naukowa
+  pt "Znaczenie literatury pięknej i sztuki na tle upadku edukacji
+  instytucjonalnej".
 title: Konferencja naukowa i jubileusz prof.zw.dr hab. Andrzeja Bałandynowicza
 ---
 
