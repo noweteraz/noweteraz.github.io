@@ -10,9 +10,9 @@ description: >-
 title: Konferencja naukowa i jubileusz prof.zw.dr hab. Andrzeja Bałandynowicza
 ---
 
-Uczestniczyliśmy w pierwszym dniu konferencji pt "Znaczenie literatury pięknej i sztuki na tle upadku edukacji instytucjonalnej", zorganizowanej przez "Wszechnicę Polską" - Szkołę Wyższą w Warszawie. Konferencja odbyła się w Nałęczowie. Słowo wstępne wygłosiła prof.zw.dr hab. Maria Szyszkowska.
+Uczestniczyliśmy w ogólnopolskiej konferencji pt "Znaczenie literatury pięknej i sztuki na tle upadku edukacji instytucjonalnej", zorganizowanej przez Wszechnicę Polską Szkołę Wyższą w Warszawie, Stowarzyszenie Filozofów Krajów Słowiańskich, Polski Oddział Stowarzyszenia Kultury Europejskiej (SEC), Pacyfistyczne Stowarzyszenie. Konferencja odbyła się w Nałęczowie. Słowo wstępne wygłosiła prof.zw.dr hab. Maria Szyszkowska.
 
-Referaty wygłosili: prof.zw. dr hab. Janusz Szymborski, dr Jacek Bukowski, prof.dr hab Zbigniew Tarkowski oraz prof.zw.dr hab. Andrzej Bałandynowicz, który obchodził jubileusz 40-lecia pracy naukowej.
+Pierwszego dnia konferencji uczczono jubileusz 40-lecia pracy naukowej prof.zw.dr hab. Andrzeja Bałandynowicza.
 
 Laudację na cześć Jubilata wygłosiły dr Anna Kyniecka-Piotrak i dr Anna Jagiełłowicz.
 
