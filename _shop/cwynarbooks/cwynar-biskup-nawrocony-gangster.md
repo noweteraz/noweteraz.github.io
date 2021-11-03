@@ -3,7 +3,7 @@ title: "Biskup. Nawrócony gangster"
 date: 2021-01-18T07:30:00.000CET
 image: "/assets/img/uploads/books/pawel-cwynar-ksiazka-biskup-nawrocony-gangster-sklep-charytatywny.jpg"
 price: '35' 
-price-gift: "40"
+price-gift:
 link: https://pawelcwynar.org
 identifier: Book
 order: book-4

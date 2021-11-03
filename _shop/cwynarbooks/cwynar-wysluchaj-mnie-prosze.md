@@ -3,7 +3,7 @@ title: "Wysłuchaj mnie, proszę..."
 date: 2020-08-06T07:30:00.000CET
 image: "/assets/img/uploads/books/pawel-cwynar-wysluchaj-mnie-prosze.jpg"
 price: '35' 
-price-gift: "40"
+price-gift:
 link: https://pawelcwynar.org
 identifier: Book
 order: book-1

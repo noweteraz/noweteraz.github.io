@@ -3,7 +3,7 @@ title: "Picie w zachwycie"
 date: 2020-08-06T07:31:00.000CET
 image: "/assets/img/uploads/books/pawel-cwynar-picie-w-zachwycie.jpg"
 price: '20' 
-price-gift: "25"
+price-gift: 
 link: https://pawelcwynar.org
 identifier: Book
 order: book-2
