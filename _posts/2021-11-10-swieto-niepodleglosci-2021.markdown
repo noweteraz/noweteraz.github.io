@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2021-11-15T00:00:00.000Z
+date: 2021-11-11T00:00:00.000Z
 tags: null
 image: /uploads/11-listopada-swieto-niepodleglosci-polski.jpg
 description: >-
