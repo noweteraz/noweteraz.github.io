@@ -1,11 +1,12 @@
 ---
 published: true
-date: 2021-11-10T07:30:00.000Z
-tags:
+date: {}
+tags: null
 image: /uploads/11-listopada-swieto-niepodleglosci-polski.jpg
 description: >-
-  W tym roku obchodzimy 103 rocznicę odzyskania przez Polskę niepodległości po 123 latach zaborów.
-title: Jutro obchodzimy Narodowe Święto Niepodległości
+  W tym roku obchodzimy 103 rocznicę odzyskania przez Polskę niepodległości po
+  123 latach zaborów.
+title: 11 listopada obchodzimy Narodowe Święto Niepodległości
 ---
 
 Narodowe Święto Niepodległości to dla nas jedno z najważniejszych świąt państwowych.  Po 123 latach zaborów – niewoli naznaczonej walką, cierpieniem i wysiłkiem wielu pokoleń Polek i Polaków – nasz kraj odzyskał suwerenność. 
