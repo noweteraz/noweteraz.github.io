@@ -13,7 +13,7 @@ order: book-1
 **Oprawa**: Miękka   
 **Format**: 170 x 240 mm  
 **Ilość stron**: 307  
-**Cena**: 39.90 zł
+**Cena**: 39.00 zł
 
 Oddajemy do rąk Czytelników biografię O. Grzegorza Ciorocha OFMConv (1962-2004), pierwszego Kustosza Kustodii Rosyjskiej, franciszkanina zamordowanego w Kobryniu na Białorusi. 
 
