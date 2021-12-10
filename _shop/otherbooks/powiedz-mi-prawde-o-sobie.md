@@ -1,6 +1,6 @@
 ---
 title: Powiedz mi prawdę o sobie
-date: 2021-06-30T07:30:00.000CET
+date: 2021-06-10T07:30:00.000CET
 image: "/assets/img/uploads/books/powiedz-mi-prawde-o-sobie-m-chudzicka-fundacja-nowe-teraz.jpg"
 price: '39' 
 price-gift: 

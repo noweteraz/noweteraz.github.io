@@ -11,10 +11,6 @@ order: book-1
  
 **Autor**: Jan Stępień         
 **Oprawa**: Miękka      
-**Format**: 145 x 205 mm  
+**Format**: 125 x 195 mm  
 **Ilość stron**: 88     
 **Cena**: 26.00 zł
-
-I część to wiersze o ciszy, miłości i przemijaniu.
-
-II część to eseje m.in. o wyobraźni czy stosunku do zwierząt.
