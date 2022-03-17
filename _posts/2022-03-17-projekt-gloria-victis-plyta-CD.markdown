@@ -1,6 +1,6 @@
 ---
 published: true
-date: '2022-03-17'
+date: '2022-03-17T08:00:00.000CET'
 tags: null
 image: /uploads/projekt_gloria_victis_okladkaCD-str-1.jpg
 description: >-
