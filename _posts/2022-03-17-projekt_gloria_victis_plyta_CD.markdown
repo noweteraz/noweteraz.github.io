@@ -1,10 +1,11 @@
 ---
 published: true
-date: '2022-03-17 07:00:00'
+date: '2022-03-17'
 tags: null
 image: /uploads/projekt_gloria_victis_okladkaCD-str-1.jpg
 description: >-
-  Miło nam jest poinformować, że właśnie ukazała się płyta CD do projektu "Gloria Victis". 
+  Miło nam jest poinformować, że właśnie ukazała się płyta CD do projektu
+  "Gloria Victis". 
 title: Płyta CD "Gloria Victis" już do kupienia!
 ---
 
