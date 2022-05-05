@@ -2,11 +2,13 @@
 title: Ignacy Jan Paderewski. Z panteonu wielkich Polaków
 date: 2021-12-07T07:30:00.000CET
 image: "/assets/img/uploads/books/Ignacy-Jan-Paderewski-Z-panteonu-wielkich-Polakow-fundacja-nowe-teraz-sklep.jpg"
+excerpt: "Prezentowana książka nie jest powieścią biograficzną, ale zbiorem esejów zamieszczonych tu przez wielu znanych autorów, m.in. Historyków i muzykologów..."
 price: '88' 
 price-gift: 
 link: 
 identifier: Book-Other
 order: book-8
+layout: shop
 ---
  
 **Autor**: Kazimierz Roman, Czekaj Haag     

@@ -2,11 +2,13 @@
 title: Między Bagatelą a Zgodą...
 date: 2021-12-07T07:30:00.000CET
 image: "/assets/img/uploads/books/Miedzy-Bagatela-a-Zgoda-fundacja-nowe-teraz-sklep.jpg"
+excerpt: "Między Bagatelą a Zgodą..., album fotografii dokumentujących architekturę i wygląd od środka warszawskich kamienic z lat 50. i 60. XX wieku..."
 price: '63' 
 price-gift: 
 link: 
 identifier: Book-Other
 order: book-7
+layout: shop
 ---
  
 **Autor**: Andrzej Zborski     

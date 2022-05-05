@@ -2,11 +2,13 @@
 title: Dolar
 date: 2021-12-07T07:30:00.000CET
 image: "/assets/img/uploads/books/Dolar-Aleksander-Milowicki-fundacja-nowe-teraz-sklep.jpg"
+excerpt: "Powieść napisana z autopsji, bezlitosna. Bohater, Polak zdesperowany beznadziejną perspektywą socjalną i mieszkaniową w Polsce..."
 price: '22' 
 price-gift: 
 link: 
 identifier: Book-Other
 order: book-9
+layout: shop
 ---
  
 **Autor**: Aleksander Miłowicki     

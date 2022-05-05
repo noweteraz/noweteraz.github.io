@@ -9,35 +9,49 @@ permalink: "/sklep-charytatywny/"
     
     <h1 class="text-5xl text-center mb-10 leading-tight font-bold font-heading">Sklep Charytatywny</h1>
 
-    <section class="py-12 px-4"><div class="flex flex-wrap items-center max-w-5xl mx-auto">
+    <section class="py-12 px-4">
 
-      <div class="lg:w-1/2 px-8 mb-8"><img class="lg:max-w-sm rounded shadow" src="/assets/img/projekt_gloria_victis_okladkaCD-str-1.jpg" alt="Płyta CD"></div>
-      <div class="lg:w-1/2 px-8 mb-8 lg:mb-0">
-        <h2 class="text-3xl mb-2 font-semibold font-heading">Płyta CD z pieśniami powstańczymi i wojennymi</h2>
-        <p class="mb-4 text-gray-500 leading-relaxed">Płyta dedykowana jest tym, którzy walczyli o wolność, tym którzy oddali swe życie za Ojczyznę: żołnierzom Wojska Polskiego i Armii Krajowej, Powstańcom Warszawskim, sanitariuszkom z Szarych Szeregów, ofiarom katowni gestapo i NKWD, a także pomordowanym cywilom w czasie Powstania.</p>
-        <a class="text-blue-700 hover:underline" href="/sklep-charytatywny/gloria-victis/">Przejd&#378; do zakupu &raquo;</a>
+
+      <h2 class="text-4xl mb-2 leading-tight font-semibold font-heading">Książki</h2>
+			  
+      <div class="flex flex-wrap items-center -mx-8 mt-12 mb-2">
+        {% assign sorted_books = site.shop | where: "identifier", "Book-Other" | sort: 'order', 'last' %}
+        {% for page in sorted_books %}
+        <div class="lg:w-1/3 px-8 mb-8">
+        <img class="lg:max-w-sm mx-auto mb-8" src="{{ page.image }}" alt="{{ page.title }}">
+        <h3 class="text-2xl mb-4 font-semibold font-heading text-center">
+          <span><a class="hover:text-blue-700"href="{{ page.url }}">{{ page.title }}</a></span>
+        </h3>
+        <p class="text-gray-500 text-center leading-relaxed"><a href="{{ page.url }}">{{ page.excerpt }}</a></p>
+        <div class="w-1/2 mx-auto text-center mt-8">
+          {% include product-add-to-cart.html %}
+         </div>
+        </div>
+        {% endfor %}
+        
       </div>
 
-        <div class="lg:w-1/2 px-8 mb-8"><img class="lg:max-w-sm rounded shadow" src="/assets/img/galeria-nowe-teraz-prace-henryka-dabrowskiego-1.jpg" alt="Repliki dzieł Henryka Dąbrowskiego"></div>
-        <div class="lg:w-1/2 px-8 mb-8 lg:mb-0">
-          <h2 class="text-3xl mb-2 font-semibold font-heading">Repliki dzie&#322; Henryka D&#261;browskiego</h2>
-          <p class="mb-4 text-gray-500 leading-relaxed">Oferowane dzie&#322;a Henryka D&#261;browskiego s&#261; w postaci replik - gicl&eacute;e. Giclee zosta&#322;y wykonane w oparciu o nowoczesne technologie oraz materia&#322;y najwy&#380;szej jako&#347;ci i trwa&#322;o&#347;ci.</p>
-          <a class="text-blue-700 hover:underline" href="/sklep-charytatywny/henryk-dabrowski/">Przejd&#378; do zakupu &raquo;</a>
+      <h2 class="text-4xl mb-2 leading-tight font-semibold font-heading">Płyty</h2>
+			  
+      <div class="flex flex-wrap items-center -mx-8 mt-12 mb-2">
+        {% assign sorted_cds = site.shop | where: "identifier", "CD-Audio" | sort: 'order', 'last' %}
+        {% for page in sorted_cds %}
+        <div class="lg:w-1/3 px-8 mb-8">
+        <img class="lg:max-w-sm mx-auto mb-8" src="{{ page.image }}" alt="{{ page.title }}">
+        <h3 class="text-2xl mb-4 font-semibold font-heading text-center">
+          <span><a class="hover:text-blue-700"href="{{ page.url }}">{{ page.title }}</a></span>
+        </h3>
+        <p class="text-gray-500 text-center leading-relaxed"><a href="{{ page.url }}">Zapoznaj się z pełnym opisem.</a></p>
+        <div class="w-1/2 mx-auto text-center mt-8">
+          {% include product-add-to-cart.html %}
+         </div>
         </div>
-        <div class="lg:w-1/2 px-8 mb-8 lg:order-1"><img class="lg:max-w-sm rounded shadow" src="/assets/img/pawel-cwynar-z-ksiazka.jpg" alt="Książki Pawła Cwynara"></div>
-        <div class="lg:w-1/2 px-8 lg:order-1" >
-          <h2 class="text-3xl mb-2 font-semibold font-heading">Ksi&#261;&#380;ki Paw&#322;a Cwynara</h2>
-          <p class="mb-4 text-gray-500 leading-relaxed">By&#322;y wi&#281;zie&#324;. Pisarz. Obecnie pomaga innym, dziel&#261;c si&#281; dorobkiem swoich wieloletnich do&#347;wiadcze&#324;.</p>
-          <a class="text-blue-700 hover:underline" href="/sklep-charytatywny/ksiazki-pawla-cwynara/">Przejd&#378; do zakupu &raquo;</a>
-        </div>
-        <div class="lg:w-1/2 px-8 mb-8 lg:order-2"><img class="lg:max-w-sm rounded shadow" src="/assets/img/fundacja-nowe-teraz-sklep-charytatywny-ksiazki.jpg" alt="Książki pozostałe"></div>
-        <div class="lg:w-1/2 px-8 lg:order-2">
-          <h2 class="text-3xl mb-2 font-semibold font-heading">Pozostałe książki</h2>
-          <p class="mb-4 text-gray-500 leading-relaxed">Pozostałe książki których sprzedaż wspomaga misję Fundacji Nowe Teraz.</p>
-          <a class="text-blue-700 hover:underline" href="/sklep-charytatywny/ksiazki-pozostale/">Przejd&#378; do zakupu &raquo;</a>
-        </div>
-
+        {% endfor %}
+        
       </div>
+
     </section>
   
 </div>
+
+{{ site.scripts_lazyload }}

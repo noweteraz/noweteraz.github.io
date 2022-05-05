@@ -2,11 +2,13 @@
 title: "Wysłuchaj mnie, proszę..."
 date: 2020-08-06T07:30:00.000CET
 image: "/assets/img/uploads/books/pawel-cwynar-wysluchaj-mnie-prosze.jpg"
+excerpt: "Wysłuchaj mnie, proszę... - książka dla każdego, bez podziału na przekonania czy religię."
 price: '35' 
 price-gift:
 link: https://pawelcwynar.org
-identifier: Book
+identifier: Book-Other
 order: book-1
+layout: shop
 ---
  
 **Autor**: Paweł Cwynar   

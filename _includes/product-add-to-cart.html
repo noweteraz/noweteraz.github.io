@@ -3,32 +3,32 @@
   <input type="hidden" name="p24_id_salesman" value="97190" />
   <input type="hidden" name="p24_salesman_key" value="eea36f0c" />
   <input type="hidden" name="p24_currency" value="pln">
-  <input type="hidden" name="p24_name" value="{% if books.image contains '/uploads/products/' %}{{ books.title }} - format rzeczywisty {% else %} {{ books.title }} {% endif %}" />
-  <input type="hidden" name="p24_amount" value="{{ books.price | times:100 }}" />
-  <input class="cursor-pointer buy-button przelewy-add-item inline-block mb-2 w-full py-3 px-4 leading-none text-white bg-indigo-600 hover:bg-indigo-700 font-semibold rounded" type="submit" name="" value="{% if books.image contains '/uploads/products/' %} Kupuję wielkość 1:1 - {{ books.price }}{% else %} Kupuję - {{ books.price }} {% endif %} zł" />
+  <input type="hidden" name="p24_name" value="{% if page.image contains '/uploads/products/' %}{{ page.title }} - format rzeczywisty {% else %} {{ page.title }} {% endif %}" />
+  <input type="hidden" name="p24_amount" value="{{ page.price | times:100 }}" />
+  <input class="cursor-pointer buy-button przelewy-add-item inline-block mb-2 w-full py-3 px-4 leading-none text-white bg-indigo-600 hover:bg-indigo-700 font-semibold rounded" type="submit" name="" value="{% if page.image contains '/uploads/products/' %} Kupuję wielkość 1:1 - {{ page.price }}{% else %} Kupuję - {{ page.price }} {% endif %} zł" />
   <input type="hidden" name="p24_add" value="1" />
 </form>
-{% if books.price-gift %}
+{% if page.price-gift %}
 <form name="p24" action="https://cart.przelewy24.pl/index/add" method="post" accept-charset="utf-8">
   <input type="hidden" name="p24_crc" value="cedc650ff905dd3be66444c8bd00d8adb201a9dc" />
   <input type="hidden" name="p24_id_salesman" value="97190" />
   <input type="hidden" name="p24_salesman_key" value="eea36f0c" />
   <input type="hidden" name="p24_currency" value="pln">
-  <input type="hidden" name="p24_name" value="{{ books.title }} - zapakowane na prezent" />
-  <input type="hidden" name="p24_amount" value="{{ books.price-gift | times:100 }}" />
-  <input class="cursor-pointer buy-button przelewy-add-item inline-block w-full py-3 px-4 leading-none text-white bg-indigo-600 hover:bg-indigo-700 font-semibold rounded" type="submit" name="" value="Kupuję zapakowane na prezent - {{ books.price-gift }} zł" />
+  <input type="hidden" name="p24_name" value="{{ page.title }} - zapakowane na prezent" />
+  <input type="hidden" name="p24_amount" value="{{ page.price-gift | times:100 }}" />
+  <input class="cursor-pointer buy-button przelewy-add-item inline-block w-full py-3 px-4 leading-none text-white bg-indigo-600 hover:bg-indigo-700 font-semibold rounded" type="submit" name="" value="Kupuję zapakowane na prezent - {{ page.price-gift }} zł" />
   <input type="hidden" name="p24_add" value="1" />
 </form>
 {% endif %}
-{% if books.price-1 %}
+{% if page.price-1 %}
 <form name="p24" action="https://cart.przelewy24.pl/index/add" method="post" accept-charset="utf-8">
   <input type="hidden" name="p24_crc" value="cedc650ff905dd3be66444c8bd00d8adb201a9dc" />
   <input type="hidden" name="p24_id_salesman" value="97190" />
   <input type="hidden" name="p24_salesman_key" value="eea36f0c" />
   <input type="hidden" name="p24_currency" value="pln">
-  <input type="hidden" name="p24_name" value="{{ books.title }} - zmniejszone" />
-  <input type="hidden" name="p24_amount" value="{{ books.price-1 | times:100 }}" />
-  <input class="cursor-pointer buy-button przelewy-add-item inline-block w-full py-3 px-4 leading-none text-white bg-indigo-600 hover:bg-indigo-700 font-semibold rounded" type="submit" name="" value="Kupuję wielkość zmniejszoną - {{ books.price-1 }} zł" />
+  <input type="hidden" name="p24_name" value="{{ page.title }} - zmniejszone" />
+  <input type="hidden" name="p24_amount" value="{{ page.price-1 | times:100 }}" />
+  <input class="cursor-pointer buy-button przelewy-add-item inline-block w-full py-3 px-4 leading-none text-white bg-indigo-600 hover:bg-indigo-700 font-semibold rounded" type="submit" name="" value="Kupuję wielkość zmniejszoną - {{ page.price-1 }} zł" />
   <input type="hidden" name="p24_add" value="1" />
 </form>
 {% endif %}

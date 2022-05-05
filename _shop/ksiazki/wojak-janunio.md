@@ -2,11 +2,13 @@
 title: Wojak Janunio
 date: 2021-12-10T07:30:00.000CET
 image: "/assets/img/uploads/books/jan-stepien-wojak-janunio-fundacja-nowe-teraz-sklep-charytatywny.jpg"
+excerpt: "Książka „Wojak Janunio” to zbiór 66 miniatur. Dotyczą one osobistych przeżyć pisarza, wyniesionych z dwuletniej służby wojskowej w Ludowym Wojsku Polskim za czasów PRL."
 price: '33' 
 price-gift: 
 link: 
 identifier: Book-Other
 order: book-1
+layout: shop
 ---
  
 **Autor**: Jan Stępień         

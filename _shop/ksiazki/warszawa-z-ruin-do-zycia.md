@@ -2,11 +2,13 @@
 title: Warszawa z ruin do życia
 date: 2021-12-07T07:30:00.000CET
 image: "/assets/img/uploads/books/Warszawa-z-ruin-do-zycia-Fotografie-1945-1950-fundacja-nowe-teraz-sklep.jpg"
+excerpt: "Fotografie 1945-1950, album fotografii ze zbiorów prof. Marka Kwiatkowskiego, wybitego historyka sztuki, byłego wieloletniego dyrektora Łazienek Królewskich."
 price: '110' 
 price-gift: 
 link: 
 identifier: Book-Other
 order: book-2
+layout: shop
 ---
  
 **Autor**: Marek Kwiatkowski   

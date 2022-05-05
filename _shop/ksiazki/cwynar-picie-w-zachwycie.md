@@ -2,11 +2,13 @@
 title: "Picie w zachwycie"
 date: 2020-08-06T07:31:00.000CET
 image: "/assets/img/uploads/books/pawel-cwynar-picie-w-zachwycie.jpg"
+excerpt: "Picie w zachwycie to w dynamiczny sposób opisana historia życia z nałogiem alkoholowym, historia upadków i ciągłego powstawania na nowo..."
 price: '20' 
 price-gift: 
 link: https://pawelcwynar.org
-identifier: Book
+identifier: Book-Other
 order: book-2
+layout: shop
 ---
  
 **Autor**: Paweł Cwynar   

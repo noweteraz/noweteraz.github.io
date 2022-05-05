@@ -45,7 +45,8 @@ collections:
   pages:
     output: true
   shop:
-    output: false
+    output: true
+    permalink: /sklep-charytatywny/:name/
 
 defaults:
 - scope:
@@ -58,6 +59,10 @@ defaults:
     path: "/assets/img/uploads/files/*.pdf"
   values:
     sitemap: false
+- scope:
+    path: _shop
+  values:
+      layout: shop
 
 exclude:
   - Gemfile
@@ -80,6 +85,7 @@ header_nav_right:
   Wesprzyj nas: "/wspieram/"
   Blog: "/blog/"
   Sklep: "/sklep-charytatywny/"
+  Galeria: "https://galeria.noweteraz.pl"
   Kontakt: "/kontakt/"
 
 footer_nav:

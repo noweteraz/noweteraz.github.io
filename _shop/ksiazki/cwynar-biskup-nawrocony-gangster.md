@@ -2,11 +2,13 @@
 title: "Biskup. Nawrócony gangster"
 date: 2021-01-18T07:30:00.000CET
 image: "/assets/img/uploads/books/pawel-cwynar-ksiazka-biskup-nawrocony-gangster-sklep-charytatywny.jpg"
+excerpt: "Paweł Cwynar był gangsterem nietypowym. Nie urodził się w patologicznym domu, nie doświadczył przemocy domowej czy emocjonalnego odrzucenia."
 price: '35' 
 price-gift:
 link: https://pawelcwynar.org
-identifier: Book
+identifier: Book-Other
 order: book-4
+layout: shop
 ---
 
 **Autor**: Paweł Cwynar, Marcin Klimkowski   

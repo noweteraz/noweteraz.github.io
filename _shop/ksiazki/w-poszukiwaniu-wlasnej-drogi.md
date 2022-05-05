@@ -2,11 +2,13 @@
 title: W poszukiwaniu własnej drogi
 date: 2021-12-10T07:30:00.000CET
 image: "/assets/img/uploads/books/maria-szyszkowska-w-poszukiwaniu-wlasnej-drogi-fundacja-nowe-teraz-sklep-charytatywny.jpg"
+excerpt: "W Poszukiwaniu własnej drogi to ekscytująca książka, będąca zapisem zwierzeń, dyskusji, a nawet ostrych starć, wynikłych ze spotkania dwojga niezwykłych postaci..."
 price: '26' 
 price-gift: 
 link: 
 identifier: Book-Other
 order: book-1
+layout: shop
 ---
  
 **Autor**: Maria Szyszkowska      

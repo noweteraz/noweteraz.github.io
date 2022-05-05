@@ -2,11 +2,13 @@
 title: Powiedz mi prawdę o sobie
 date: 2021-06-10T07:30:00.000CET
 image: "/assets/img/uploads/books/powiedz-mi-prawde-o-sobie-m-chudzicka-fundacja-nowe-teraz.jpg"
+excerpt: "Książka opisuje rosyjską Misję szlachetnego zakonnika na szerokim tle sytuacji Kościoła Katolickiego w Rosji..."
 price: '39' 
 price-gift: 
 link: 
 identifier: Book-Other
 order: book-1
+layout: shop
 ---
  
 **Autor**: Magdalena Chudzicka   

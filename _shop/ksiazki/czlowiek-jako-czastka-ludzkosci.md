@@ -2,11 +2,13 @@
 title: Człowiek jako cząstka ludzkości
 date: 2021-12-10T07:30:00.000CET
 image: "/assets/img/uploads/books/maria-szyszkowska-czlowiek-jako-czastka-ludzkosci-fundacja-nowe-teraz-sklep-charytatywny.jpg"
+excerpt: "Niepokoje płynące z otaczającego nas świata są na tyle silne, że nie pozwalają na izolację. Mają wpływ na istnienie każdego z nas."
 price: '39' 
 price-gift: 
 link: 
 identifier: Book-Other
 order: book-1
+layout: shop
 ---
  
 **Autor**: Maria Szyszkowska      

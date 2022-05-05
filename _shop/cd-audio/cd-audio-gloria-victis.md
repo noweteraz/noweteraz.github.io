@@ -7,6 +7,7 @@ price-gift:
 link: 
 identifier: CD-Audio
 order: 
+layout: shop
 ---
  
 **Pomysłodawcy**: Dariusz Gajda, Krzysztof Rydzylewski       

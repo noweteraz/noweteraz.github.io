@@ -2,11 +2,13 @@
 title: Człowiek cząstką wszechświata
 date: 2021-12-10T07:30:00.000CET
 image: "/assets/img/uploads/a-balandynowicz-czlowiek-czastka-wszechswiata.jpg"
+excerpt: "Filozofia człowieka i jego rola dla społeczności, wspólnotowości a także dla całego rodu ludzkiego stanowi żywotny gwarant dla filozofii prawa..."
 price: '70' 
 price-gift: 
 link: 
 identifier: Book-Other
 order: book-1
+layout: shop
 ---
  
 **Autor**: Andrzej Bałandynowicz      

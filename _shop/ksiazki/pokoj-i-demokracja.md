@@ -2,11 +2,13 @@
 title: Pokój i demokracja
 date: 2021-12-10T07:30:00.000CET
 image: "/assets/img/uploads/books/maria-szyszkowska-pokoj-i-demokracja-fundacja-nowe-teraz-sklep-charytatywny.jpg"
+excerpt: "Książka powstała jako rezultat przemyśleń i dyskusji prowadzonych na konferencjach w Tarnowie, w Warszawie, w nałęczowskiej..."
 price: '26' 
 price-gift: 
 link: 
 identifier: Book-Other
 order: book-1
+layout: shop
 ---
  
 **Autor**: Maria Szyszkowska      

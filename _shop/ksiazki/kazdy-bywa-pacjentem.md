@@ -2,11 +2,13 @@
 title: Każdy bywa pacjentem
 date: 2021-12-10T07:30:00.000CET
 image: "/assets/img/uploads/books/maria-szyszkowska-kazdy-bywa-pacjentem-fundacja-nowe-teraz-sklep-charytatywny.jpg"
+excerpt: "Nie tylko medycyna, ale także farmacja odcięta od korzeni filozoficznych nie pełni właściwej dla siebie roli."
 price: '26' 
 price-gift: 
 link: 
 identifier: Book-Other
 order: book-1
+layout: shop
 ---
  
 **Autor**: Maria Szyszkowska      

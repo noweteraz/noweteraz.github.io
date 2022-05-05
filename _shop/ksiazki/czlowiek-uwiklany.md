@@ -2,11 +2,13 @@
 title: Człowiek uwikłany
 date: 2021-12-10T07:30:00.000CET
 image: "/assets/img/uploads/books/maria-szyszkowska-czlowiek-uwikłany-fundacja-nowe-teraz-sklep-charytatywny.jpg"
+excerpt: "Rozkwit cywilizacji powoduje, że świat w którym żyjemy ulega szybkim zmianom. Rozwój techniki wywołał nieznany wcześniej w swych rozmiarach napływ informacji..."
 price: '39' 
 price-gift: 
 link: 
 identifier: Book-Other
 order: book-1
+layout: shop
 ---
  
 **Autor**: Maria Szyszkowska      
