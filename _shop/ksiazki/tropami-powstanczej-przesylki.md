@@ -3,7 +3,7 @@ title: Tropami powstańczej przesyłki
 date: 2021-12-07T07:30:00.000CET
 image: "/assets/img/uploads/books/Tropami-powstanczej-przesylki-fundacja-nowe-teraz-sklep.jpg"
 excerpt: "5 września 1939 roku, w piątym dniu II wojny światowej, w wyniku nalotu hitlerowskich samolotów na Dworzec Wschodni w Warszawie zginęło od bomb 30 harcerek..."
-price: '35' 
+price: '40' 
 price-gift: 
 link: 
 identifier: Book-Other

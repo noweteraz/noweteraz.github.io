@@ -3,7 +3,7 @@ title: Schodami śmierci. Dramatyczna opowieść więźnia hitlerowskich obozów
 date: 2021-12-07T07:30:00.000CET
 image: "/assets/img/uploads/books/Schodami-smierci-fundacja-nowe-teraz-sklep.jpg"
 excerpt: "Książka Wiktora Kielicha jest prawdziwie faktograficzną opowieścią o czasach ludobójstwa, pogardy jednego człowieka wobec drugiego."
-price: '110' 
+price: '118' 
 price-gift: 
 link: 
 identifier: Book-Other
