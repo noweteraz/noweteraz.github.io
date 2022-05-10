@@ -5,7 +5,7 @@ tags: null
 image: /uploads/eurogospodarka_nr-5_maj_2022-okladka.jpg
 description: >-
   Zapraszamy do zapoznania się z zawartością najnowszego, majowego numeru pisma Eurogospodarka. Ponad 60 stron ważnych i aktualnych tekstów. Do poczytania... bez opłat. 
-title: Eurogospodarka 5/2022 już do poczytania. Za darmo!
+title: Eurogospodarka 5/2022 już do poczytania. Bezpłatnie!
 ---
 
 Zapraszamy do zapoznania się z zawartością najnowszego, majowego numeru pisma *Eurogospodarka*. Ponad 60 stron ważnych i aktualnych tekstów. Wszystko bez żadnych opłat. 
