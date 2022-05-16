@@ -1,9 +1,16 @@
 - name: Artur Król
   function: Prezes Zarządu 
   image: prezes-fundacji-nowe-teraz-artur-krol.jpg
+  status: 1
+- name: Bogusława Chada
+  function: Dyrektor Generalny
+  image: fundacja-nowe-teraz-boguslawa-chada.jpg
+  status: 1
 - name: Monika Krzebietka
   function: Koordynator Projektów
   image: manager-fundacji-nowe-teraz-monika-krzebietka.jpg
+  status: 0
 - name: Paweł Cwynar
   function: Więziennictwo i Resocjalizacja
   image: fundacja-nowe-teraz-pawel-cwynar.jpg
+  status: 0
