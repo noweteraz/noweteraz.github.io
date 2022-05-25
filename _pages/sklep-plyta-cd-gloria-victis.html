@@ -8,7 +8,7 @@ permalink: "/sklep-charytatywny/gloria-victis/"
 <div class="container mx-auto px-4 py-12">    
     <h1 class="text-5xl text-center mb-10 leading-tight font-bold font-heading">Płyta CD Gloria Victis</h1>
   
-    {% assign sorted_books = site.shop | where: "identifier", "CD-Audio" | sort: 'order', 'last' %}
+    {% assign sorted_books = site.shop | where: "identifier", "CD-Audio-Gloria" | sort: 'order', 'last' %}
     {% for books in sorted_books %}
     <section class="py-12 px-4">
         <div class="flex flex-wrap -mx-4">

@@ -5,7 +5,7 @@ image: "/assets/img/uploads/projekt_gloria_victis_okladkaCD-str-1.jpg"
 price: '30' 
 price-gift: 
 link: 
-identifier: CD-Audio
+identifier: CD-Audio-Gloria
 order: 
 layout: shop
 ---
