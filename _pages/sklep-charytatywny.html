@@ -34,7 +34,7 @@ permalink: "/sklep-charytatywny/"
       <h2 class="text-4xl mb-2 leading-tight font-semibold font-heading">Płyty</h2>
 			  
       <div class="flex flex-wrap items-center -mx-8 mt-12 mb-2">
-        {% assign sorted_cds = site.shop | where: "identifier", "CD-Audio" | sort: 'order', 'last' %}
+        {% assign sorted_cds = site.shop | where_exp: "item", "item.identifier contains 'CD-Audio' " | sort: 'order', 'last' %}
         {% for page in sorted_cds %}
         <div class="lg:w-1/3 px-8 mb-8">
         <img class="lg:max-w-sm mx-auto mb-8" src="{{ page.image }}" alt="{{ page.title }}">
