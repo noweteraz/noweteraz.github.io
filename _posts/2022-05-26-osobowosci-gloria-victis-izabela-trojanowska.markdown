@@ -1,10 +1,11 @@
 ---
-published: true
+published: false
 date: '2022-05-26T07:00:00'
 tags: null
 image: /uploads/projekt-gloria-victis-izabela-trojanowska-fot-1.jpg
 description: >-
-  Izabela Trojanowska nagrała na płytę Gloria Victis utwór pod tytułem „Modlitwa”. 
+  Izabela Trojanowska nagrała na płytę Gloria Victis utwór pod tytułem
+  „Modlitwa”. 
 title: Osobowości projektu Gloria Victis - Izabela Trojanowska
 ---
 
