@@ -16,6 +16,4 @@ Zdjęcia przedstawiają Pana Profesora Leszka Żukowskiego składającego podpis
 
 Pan Profesor Leszek Żukowski ps. „Antek” Żołnierz Szarych Szeregów i Armii Krajowej, uczestnik Powstania Warszawskiego, wieloletni prezes Zarządu Głównego Światowego Związku Żołnierzy Armii Krajowej był gościem Fundacji Nowe Teraz wydawcy płyty pod tytułem Gloria Victis.
 
-Celem działania Fundacji Nowe Teraz jest podtrzymywanie tradycji narodowych, pielęgnowanie polskości oraz rozwijanie świadomości narodowej, obywatelskiej i kulturowej, niesienie pomocy osobom wykluczonym z życia społecznego.
-
-Celem projektu „Gloria Victis” jest wsparcie kombatantów, którzy walczyli o wolność naszej Ojczyzny, żołnierzy Wojska Polskiego i Armii Krajowej, Powstańców Warszawskich, sanitariuszek z Szarych Szeregów.
+Więcej o [projekcie Gloria Victis](/projekty/gloria-victis/).
