@@ -4,7 +4,8 @@ date: '2022-06-07T07:00:00'
 tags: null
 image: /uploads/czeslaw-czaplinki-fotograf-nagroda-fot-2.jpg
 description: >-
-  Miło jest nam poinformować o nagrodzie jaką otrzymał współpracujący w Fundacją Nowe Teraz artysta fotograf Czesław Czapliński.
+  Miło jest nam poinformować o nagrodzie jaką otrzymał współpracujący z Fundacją
+  Nowe Teraz, artysta fotograf, Czesław Czapliński.
 title: Nagroda dla Czesława Czaplińskiego
 ---
 
@@ -17,4 +18,3 @@ Fotografie Czesława Czaplińskiego publikowały najważniejsze tytuły prasowe 
 W czasie ponad 40 lat fotografowania Czesław Czapliński uwiecznił wiele znanych postaci ze świata biznesu, kultury, polityki i sportu.
 
 ![Nagroda dla Czesława Czaplińskiego](/uploads/czeslaw-czaplinki-fotograf-nagroda-fot-1.jpg)
-
