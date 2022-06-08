@@ -9,7 +9,7 @@ description: >-
 title: Nagroda dla Czesława Czaplińskiego
 ---
 
-Miło jest nam poinformować o nagrodzie jaką otrzymał współpracujący w Fundacją Nowe Teraz, artysta fotograf, Czesław Czapliński.
+Miło jest nam poinformować o nagrodzie jaką otrzymał współpracujący z Fundacją Nowe Teraz, artysta fotograf, Czesław Czapliński.
 
 Otrzymał Statuetkę „Obiektyw kulturalny” Agencji Informacyjnej. Redakcja doceniła jego wkład w dokumentowanie polskiego życia kulturalnego, społecznego i gospodarczego. Czesław Czapliński to polsko-amerykański artysta fotograf, dziennikarz, autor książek i filmów dokumentalnych. Od 1979 roku mieszka w Nowym Jorku i w Warszawie. Jest autorem lub współautorem ponad 41 albumów (książek). W 1981 roku założył agencję fotograficzną „Photo Medium”.
 
