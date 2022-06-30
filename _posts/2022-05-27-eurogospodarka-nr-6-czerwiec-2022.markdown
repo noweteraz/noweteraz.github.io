@@ -18,4 +18,3 @@ Zapraszam do zapoznania się z zawartością: [najnowszego numeru pisma Eurogosp
 Redaktor Naczelna
 
 ![Eurogospodarka numer 6/2022 czerwiec 2022](/uploads/eurogospodarka_nr-6_czerwiec_2022-spis-tresci.jpg)
-
