@@ -6,7 +6,7 @@ excerpt: "Paweł Cwynar był gangsterem nietypowym. Nie urodził się w patologi
 price: '35' 
 price-gift:
 link: https://pawelcwynar.org
-identifier: Book-Other
+identifier: Book-Cwynar
 order: book-4
 layout: shop
 ---

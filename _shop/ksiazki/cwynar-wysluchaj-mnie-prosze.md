@@ -6,7 +6,7 @@ excerpt: "Wysłuchaj mnie, proszę... - książka dla każdego, bez podziału na
 price: '35' 
 price-gift:
 link: https://pawelcwynar.org
-identifier: Book-Other
+identifier: Book-Cwynar
 order: book-1
 layout: shop
 ---

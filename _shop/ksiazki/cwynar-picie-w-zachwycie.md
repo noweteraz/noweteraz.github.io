@@ -6,7 +6,7 @@ excerpt: "Picie w zachwycie to w dynamiczny sposób opisana historia życia z na
 price: '20' 
 price-gift: 
 link: https://pawelcwynar.org
-identifier: Book-Other
+identifier: Book-Cwynar
 order: book-2
 layout: shop
 ---

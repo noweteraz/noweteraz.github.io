@@ -5,7 +5,7 @@ image: "/assets/img/uploads/books/pawel-cwynar-picie-w-zachwycie-wysluchaj-mnie-
 excerpt: "Zestaw dwóch książek Pawła Cwynara."
 price: '45' 
 price-gift: 
-identifier: Book-Other
+identifier: Book-Cwynar
 order: book-3
 layout: shop
 ---
