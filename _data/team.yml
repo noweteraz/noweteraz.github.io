@@ -1,10 +1,12 @@
 - name: Robert Kotarski
   function: Prezes Zarządu 
   image: prezes-fundacji-nowe-teraz-robert-kotarski.jpg
+  image-overlay: prezes-fundacji-nowe-teraz-robert-kotarski-overlay.jpg
   status: 1
 - name: Bogusława Chada
   function: Dyrektor Generalny
   image: fundacja-nowe-teraz-boguslawa-chada.jpg
+  image-overlay: fundacja-nowe-teraz-boguslawa-chada-overlay.jpg
   status: 1
 - name: Monika Krzebietka
   function: Koordynator Projektów
