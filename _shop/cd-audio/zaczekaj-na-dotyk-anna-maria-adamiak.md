@@ -1,5 +1,5 @@
 ---
-title: ' "Zaczekaj na dotyk"'
+title: Zaczekaj na dotyk
 date: 2022-06-30T07:30:00.000CET
 image: "/assets/img/uploads/anna-maria-adamiak-zaczekaj-na-dotyk.jpg"
 price: '30' 
