@@ -1,6 +1,6 @@
 ---
 published: true
-date: '2023-01-25T08:30:00'
+date: '2023-01-25T08:00:00'
 tags: null
 image: /uploads/eurogospodarka_nr-2_luty_2023-okladka.jpg
 description: >-
