@@ -1,0 +1,26 @@
+---
+published: true
+date: '2023-02-26T07:00:00.000CET'
+tags: null
+image: /uploads/dom-sierot-janusza-korczaka-1935-rok.jpg
+description: >-
+  Oficjalne otwarcie placówki, rozpoczęte nabożeństwem i przemową kaznodziei Wielkiej Synagogi na Tłomackiem dr Samuela Abrahama Poznańskiego, z udziałem licznych gości odbyło się dopiero 27 lutego 1913 roku. 
+title: 27 lutego 1913. Rocznica otwarcia Domu Sierot Janusza Korczaka
+---
+
+Żydowski Dom Sierot – żydowski dom dziecka prowadzony przez Janusza Korczaka w latach 1913-1942, którego główny budynek znajdował się przy ul. Krochmalnej 92 (dziś ul. Jaktorowska 6).
+
+Inicjatywa założenia żydowskiego domu dla sierot wyszła od strony dra Janusza Korczaka oraz Towarzystwa "Pomoc dla Sierot", któremu w 1907 roku udało się założyć sierociniec i ulokować w budynku przy ul. Franciszkańskiej 2. Obiekt nie spełniał jednak żadnych warunków dla dobrego funkcjonowania, wobec czego już 12 maja 1910 roku zakupiono kosztem 24 tysięcy rubli działkę przy ul. Krochmalnej 92, gdzie miał stanąć nowy budynek dla sierocińca. Zbiórkę funduszy na budowę przeprowadziło wśród warszawskich żydów Towarzystwo "Pomoc dla Sierot", a projekt gmachu przygotował architekt Henryk Stifelman. Komisję budowlaną powołał Izaak Eliasberg.
+
+Kamień węgielny pod dwupiętrowy budynek z niezbędnymi wygodami oraz rozległym ogrodem położono 14 czerwca 1911 roku, wybudowano go w latach 1911-1912. Pierwsze dzieci wprowadziły się do budynku 7 października 1912 roku, a oficjalne otwarcie miało miejsce 27 lutego 1913 roku. Dyrektorem placówki został Janusz Korczak, a współpracę jako naczelna wychowawczyni podjęła Stefania Wilczyńska. W placówce znalazło się miejsce dla 100 dzieci obojga płci, sierot i półsierot. Do dyspozycji były kuchnie, magazyny, pralnie, łazienki i pomieszczenia gospodarcze w suterenie, kancelaria, sala rekreacyjna, pracownia krawiecka, sklepik oraz pokój modlitw na parterze, pokoje wychowanków, ambulatorium oraz magazyny na piętrze i sypialnie, izolatka oraz pokój dyżurnego wychowawcy na drugim piętrze. Z obu stron budynku znalazły się zieleńce z placami zabaw. Od strony ulicy Krochmalnej znajdował się także parterowy domek z mieszkaniami dla pracowników.
+
+Instytucja oraz budynek w niezmienionym kształcie przetrwały do 1939 roku, a już podczas niemieckiej okupacji, w związku z powstaniem getta warszawskiego, Żydowski Dom Sierot zmuszony został opuścić obiekt przy ul. Krochmalnej i przenieść się do getta. Dzięki staraniom Janusza Korczaka udało mu się zamienić budynkami ze szkołą kupiecką im. Roeslerów przy ul. Chłodnej 33, gdzie początkowo przeniosła się placówka. Stąd dom dziecka też musiał się wyprowadzić, wobec czego 21 października 1941 roku został przeniesiony do gmachu Pracowników Handlowych i Przemysłowych, położonego między ulicami Sienną (nr 16) oraz Śliską (nr 9). Instytucja starała się działać normalnie, jednak z każdym dniem było to coraz trudniejsze.
+
+W 1942 roku instytucja miała zostać ponownie przeniesiona, tym razem do budynku przy Dzielnej 39, jednak na przeszkodzie stanęła akcja likwidacyjna getta, która rozpoczęła się 22 lipca 1942 roku. Dnia 6 sierpnia dr Janusz Korczak wyszedł ze swoimi podopiecznymi w kierunku Umschlagplatzu, wyprowadzając je z budynku ul. Śliską, tłumacząc im, że udają się do Różyczki koło Czaplowizny (dziś Marysin Wawerski), dokąd zazwyczaj wyjeżdżały żydowskie dzieci w wakacje. Wszyscy wyprowadzeni zawiezieni zostali do Treblinki, gdzie zginęli w komorach gazowych.
+
+Sam budynek przy ul. Krochmalnej w 1943 roku zajęły instytucje niemieckie, urządzono tu koszary, i to prawdopodobnie dzięki temu obiekt przetrwał okres powstania warszawskiego. Na jego dziedzińcu doszło jednak do kilku egzekucji mieszkańców Woli, wśród nich zamordowano wielu dawnych pracowników domu oraz wieloletniego dozorcę, Piotra Zalewskiego. Po wojnie budynek odremontowano i obniżono kosztem mansardowego dachu, początkowo działały tu różne szkoły, a 11 listopada 1958 roku otwarto uroczyście Dom Dziecka nr 2 im. Janusza Korczaka. W 1977 roku budynek został wyremontowany, a w 1979 roku na dziedzińcu przednim budynku odsłonięto wykonany przez Ksawerego Dunikowskiego pomnik Janusza Korczaka. W środku działa też Ośrodek Dokumentacji i Badań „Korczakianum”, oddział Muzeum Warszawy.
+
+Na dwupiętrowym budynku znajdują się cztery tablice pamiątkowe – pierwsze z nich, najbardziej na lewo, upamiętnia pracownię krawiecką ORT, która znajdowała się w tym budynku w 1949 roku, oraz wszystkich pracowników i uczniów ORT, którzy zginęli w trakcie II wojny światowej. Na prawo od wejścia znajdują się kolejne tablice – upamiętniająca Janusza Korczaka (z 1956 roku) oraz Stefanię Wilczyńską (z 1988 roku) i ponownie Janusza Korczaka, ostatnia tablica została ufundowana przez Rzecznika Praw Dziecka, została odsłonięta w październiku 2012 roku z okazji 100. rocznicy otwarcia placówki. Przed budynkiem znajduje się odsłonięty w 1979 roku głaz upamiętniający Piotra Zalewskiego, długoletniego pracownika Domu Sierot, rozstrzelanego przez hitlerowców w sierpniu 1944 roku. Na sąsiedniej posesji rośnie także pomnik przyrody – dąb węgierski o nazwie "Dąb Janusza Korczaka". 
+
+![Żydowski Dom Sierot - obecnie Dom Dziecka Nr 2](/assets/img/uploads/dom-sierot-janusza-korczaka.jpg)   
+*Żydowski Dom Sierot - obecnie Dom Dziecka Nr 2 w Warszawie przy ul. Jaktorowskiej 6*

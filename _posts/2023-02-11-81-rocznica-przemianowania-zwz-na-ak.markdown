@@ -5,7 +5,7 @@ tags: null
 image: /uploads/zwz-ak.jpg
 description: >-
   14 lutego 1942 r. Naczelny Wódz gen. Władysław Sikorski powołał Armię Krajową (AK). Była ona kontynuatorką Służby Zwycięstwu Polski (SZP) i Związku Walki Zbrojnej (ZWZ)
-title: .81 rocznica przemianowania ZWZ na Armię Krajową
+title: 81. rocznica przemianowania ZWZ na Armię Krajową
 ---
 
 14 lutego 1942 r. Naczelny Wódz gen. Władysław Sikorski powołał Armię Krajową (AK). Była ona kontynuatorką Służby Zwycięstwu Polski (SZP) i Związku Walki Zbrojnej (ZWZ), formowanych do walki z okupantem niemieckim i sowieckim już od 1939 r. Pierwszym dowódcą AK został komendant główny ZWZ, gen. Stefan Rowecki „Grot”.  
