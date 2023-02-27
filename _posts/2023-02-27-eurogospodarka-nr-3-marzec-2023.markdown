@@ -1,6 +1,6 @@
 ---
 published: true
-date: '2023-02-27T08:00:00'
+date: '2023-02-28T08:00:00'
 tags: null
 image: /uploads/eurogospodarka_nr-3_marzec_2023-okladka.jpg
 description: >-
