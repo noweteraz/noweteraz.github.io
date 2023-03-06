@@ -14,6 +14,6 @@ Mamy nadzieję, że tam gdzie teraz przebywa spotkał się już ze swoją ukocha
 
 Kondolencje dla rodziny i bliskich składają Fundator, Członkowie Rady Fundacji i Prezes Zarządu Fundacji Andrzej Grudziński oraz współpracownicy z zespołu Fundacji Nowe Teraz.
 
-Ceremonia pogrzebowa odbędzie się w piątek 10 marca 2023 roku w Gdańsku Wrzeszczu, na Cmentarzu Srebrzysko, w nowej kaplicy. 
+Ceremonia pogrzebowa odbędzie się w piątek 10 marca 2023 roku o godz. 11:15, w Gdańsku Wrzeszczu, na Cmentarzu Srebrzysko, w nowej kaplicy. 
 
 
