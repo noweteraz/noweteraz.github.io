@@ -36,8 +36,8 @@ highlighter: rouge
 excerpt_separator: |2+
 
 google_analytics: UA-133950974-1
-facebook: "https://www.facebook.com/wykluczenipl"
-youtube: "https://www.youtube.com/channel/UCIp9Zws489eOnFag8fdxVQQ"
+facebook: "https://www.facebook.com/fundacja.nowe.teraz"
+# youtube: "https://www.youtube.com/channel/UCIp9Zws489eOnFag8fdxVQQ"
 
 collections:
   posts:
