@@ -1,0 +1,11 @@
+---
+published: true
+date: '2023-05-25T07:30:00.000CET'
+tags: null
+image: /uploads/dzien-matki-2023-fundacja-nowe-teraz.jpg
+description: >-
+  Z okazji Dnia Matki, składamy wszystkim mamom najserdeczniejsze życzenia. Ich miłość, poświęcenie i troska są zawsze niezastąpione.
+title: Dzień Matki
+---
+
+Z okazji Dnia Matki, składamy wszystkim mamom najserdeczniejsze życzenia. Ich miłość, poświęcenie i troska są zawsze niezastąpione. Są dla nas wszystkich przewodnikami po życiu, wsparciem i najlepszym przyjacielem. Ich doświadczenie pozwala nam znaleźć właściwą drogę i pokonać trudności. Niech każdy dzień przynosi im radość i uśmiech na twarzy.
