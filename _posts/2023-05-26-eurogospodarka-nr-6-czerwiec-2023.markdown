@@ -1,6 +1,6 @@
 ---
 published: true
-date: '2023-05-26T08:00:00'
+date: '2023-05-26T05:00:00'
 tags: null
 image: /uploads/eurogospodarka_nr-6_czerwiec_2023-okladka.jpg
 description: >-
