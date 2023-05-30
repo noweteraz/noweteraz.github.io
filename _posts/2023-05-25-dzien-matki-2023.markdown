@@ -1,6 +1,6 @@
 ---
 published: true
-date: '2023-05-25T07:30:00.000CET'
+date: '2023-05-25T06:30:00.000CET'
 tags: null
 image: /uploads/dzien-matki-2023-fundacja-nowe-teraz.jpg
 description: >-
