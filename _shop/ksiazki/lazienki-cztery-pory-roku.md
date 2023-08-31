@@ -7,6 +7,7 @@ price: '58'
 price-gift: 
 link: 
 identifier: Book-Other
+stripe-buy-button-id: buy_btn_1Nl9VcDw6kOQ9hzxfTFBO4ch
 order: book-6
 layout: shop
 ---

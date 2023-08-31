@@ -6,6 +6,7 @@ price: '30'
 price-gift: 
 link: 
 identifier: CD-Audio-Gloria
+stripe-buy-button-id: buy_btn_1NlA1kDw6kOQ9hzxncwMlMa2
 order: 
 layout: shop
 ---
