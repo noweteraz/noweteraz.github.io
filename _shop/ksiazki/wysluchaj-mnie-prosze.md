@@ -1,7 +1,7 @@
 ---
 title: Wysłuchaj mnie, proszę... 
 date: 2023-08-31T07:30:00.000CET
-image: "/assets/img/uploads/books/ysluchaj-mni-prosze-pawel-cwynar-okladka.jpg"
+image: "/assets/img/uploads/books/wysluchaj-mni-prosze-pawel-cwynar-okladka.jpg"
 excerpt: "Znaczna część akcji tej powieści rozgrywa się we wrocławskim szpitalu na oddziale onkologicznym, gdzie poznaje się dwoje młodych ludzi."
 price: '36' 
 price-gift: 
