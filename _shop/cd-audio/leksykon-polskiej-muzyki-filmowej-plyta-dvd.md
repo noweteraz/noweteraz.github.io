@@ -6,6 +6,7 @@ excerpt: "Leksykon Polskiej Muzyki Filmowej (1930-1939). Płyta zawiera fragment
 price: '31' 
 price-gift: 
 link: 
+status: 0
 identifier: CD-Audio
 order: book-1
 layout: shop

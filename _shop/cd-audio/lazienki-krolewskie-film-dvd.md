@@ -6,6 +6,7 @@ excerpt: "„Łazienki Królewskie”, DVD; 30 min; Zespół Pałacowo-Ogrodowy 
 price: '25' 
 price-gift: 
 link: 
+status: 0
 identifier: CD-Audio
 order: book-1
 layout: shop

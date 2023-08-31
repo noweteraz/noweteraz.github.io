@@ -6,6 +6,7 @@ excerpt: "Arkady Fiedler towarzyszył im w czasie bitwy o Anglię i barwnie opis
 price: '35' 
 price-gift: 
 link: 
+status: 0
 identifier: Book-Other
 order: book-25
 layout: shop

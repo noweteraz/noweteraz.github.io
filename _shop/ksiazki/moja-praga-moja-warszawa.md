@@ -6,6 +6,7 @@ excerpt: "Publikacja ta to wynik wieloletniej pracy dziennikarza i pisarza oraz
 price: '110' 
 price-gift: 
 link: 
+status: 0
 identifier: Book-Other
 order: book-5
 layout: shop

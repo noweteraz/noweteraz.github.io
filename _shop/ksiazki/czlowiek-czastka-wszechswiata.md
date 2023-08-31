@@ -6,6 +6,7 @@ excerpt: "Filozofia człowieka i jego rola dla społeczności, wspólnotowości 
 price: '70' 
 price-gift: 
 link: 
+status: 0
 identifier: Book-Other
 order: book-1
 layout: shop

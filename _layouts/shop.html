@@ -66,7 +66,7 @@ layout: compress
                 <div class="flex mb-6">
                   <div class="flex flex-wrap">
                     <div class="w-full">
-                      {% if page.identifier == 'CD-Audio-Gloria' %}
+                      {% if page.stripe-buy-button-id %}
                       {% include product-add-to-cart-stripe.html %}
                       {% else %}
                      {% include product-add-to-cart.html %}
