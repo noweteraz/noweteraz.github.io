@@ -14,14 +14,14 @@ Na imprezie nie zabrakło oczywiście strefy gastronomicznej, atrakcji i animacj
 
 Przedstawiciele Fundacji Nowe Teraz także uczestniczyli w tym wydarzeniu. Na swoim stoisku oferowaliśmy książki oraz płyty, ze sprzedaży których finansujemy nasze programy pomocowe i edukacyjne.
 
-![Dożynki Gminno-Parafialne - Wrzesień 2023](/uploads/dozynki-branszczyk-09-2023-fot-1.jpg)
+![Dożynki Gminno-Parafialne - Wrzesień 2023 fot-1](/uploads/dozynki-branszczyk-09-2023-fot-1.jpg)
 
-![Dożynki Gminno-Parafialne - Wrzesień 2023](/uploads/dozynki-branszczyk-09-2023-fot-2.jpg)
+![Dożynki Gminno-Parafialne - Wrzesień 2023 fot-2](/uploads/dozynki-branszczyk-09-2023-fot-2.jpg)
 
-![Dożynki Gminno-Parafialne - Wrzesień 2023](/uploads/dozynki-branszczyk-09-2023-fot-3.jpg)
+![Dożynki Gminno-Parafialne - Wrzesień 2023 fot-3](/uploads/dozynki-branszczyk-09-2023-fot-3.jpg)
 
-![Dożynki Gminno-Parafialne - Wrzesień 2023](/uploads/dozynki-branszczyk-09-2023-fot-4.jpg)
+![Dożynki Gminno-Parafialne - Wrzesień 2023 fot-4](/uploads/dozynki-branszczyk-09-2023-fot-4.jpg)
 
-![Dożynki Gminno-Parafialne - Wrzesień 2023](/uploads/dozynki-branszczyk-09-2023-fot-5.jpg)
+![Dożynki Gminno-Parafialne - Wrzesień 2023 fot-5](/uploads/dozynki-branszczyk-09-2023-fot-5.jpg)
 
 
