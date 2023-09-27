@@ -2,7 +2,7 @@
 published: true
 date: '2023-09-26T05:00:00'
 tags: null
-image: /uploads/eurogospodarka_nr-9_wrzesien_2023-okladka.jpg
+image: /uploads/EG_10_2023_okladka.jpg
 description: >-
   Zapraszamy do zapoznania się z zawartością październikowego numeru pisma Eurogospodarka. Ponad 60 stron ważnych i aktualnych tekstów. Do poczytania... bez opłat. 
 title: Eurogospodarka 10/2023 już do poczytania. Bezpłatnie!
