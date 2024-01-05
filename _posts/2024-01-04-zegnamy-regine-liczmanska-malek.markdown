@@ -2,7 +2,7 @@
 published: true
 date: '2024-01-04T05:00:00'
 tags: null
-image: /uploads/klepsydra-Regina Liczmanska-Malek.jpg
+image: /uploads/klepsydra-Regina-Liczmanska-Malek.jpg
 description: >-
     Z żalem zawiadamiamy, że w dniu 4 stycznia 2024 r. zmarła Śp. Regina Liczmańska-Małek.
 title: Żegnamy Reginę Liczmańską-Małek
