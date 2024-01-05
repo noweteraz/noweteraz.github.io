@@ -10,7 +10,9 @@ title: Żegnamy Reginę Liczmańską-Małek
 
 Z żalem zawiadamiamy, że w dniu 4 stycznia 2024 r. zmarła Śp. Regina Liczmańska-Małek.
 
-Ceremonia pogrzebowa odbędzie się 10 stycznia 2024 r. o godz. 12.30 na Cmentarzu Oliwskim w Gdańsku Oliwie ul. Opacka 8.
+Msza żałobna odbędzie się 10 stycznia 2024 r. o godz. 12.00 w Kościele św. Jakuba w Gdańsku Oliwie, ul. Cystersów 16A.
+
+Ceremonia pogrzebowa o godz. 12.30 na Cmentarzu Oliwskim w Gdańsku Oliwie ul. Opacka 8.
 
 O pogrzebie zawiadamia pogrążona w smutku rodzina i przyjaciele.
 
