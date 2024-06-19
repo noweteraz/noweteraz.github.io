@@ -8,7 +8,7 @@ description: >-
 title: Sobota na Bemowie z Groteką
 ---
 
-W ostatnią sobotę, 15 czerwca, byliśmy na warszaskim Bemowie, gdzie Fundacja Groteka, z którą współpracujemy, zorganizowała pokaz gier połączony ze szkoleniem dla nowych instruktorów Groteki. Zapraszamy do obejrzenia fotorelacji.
+W ostatnią sobotę, 15 czerwca, byliśmy na warszawskim Bemowie, gdzie Fundacja Groteka, z którą współpracujemy, zorganizowała pokaz gier połączony ze szkoleniem dla nowych instruktorów Groteki. Zapraszamy do obejrzenia fotorelacji.
 
 
 ![Groteka na Bemowie, pokaz gier fot.1](/uploads/groteka-pokaz-gier-bemowo15-06-2024-fot-1.jpg)
