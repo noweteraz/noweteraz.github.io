@@ -4,7 +4,7 @@ date: '2024-06-19T07:00:00'
 tags: null
 image: /uploads/groteka-pokaz-gier-bemowo15-06-2024-fot-20.jpg
 description: >-
-  Na warszawskim Bemowie uczestniczyliśmy w pokazie gier zorganizowanym przez Fundację Groteka.
+  Na warszawskim Bemowie zorganizowaliśmy razem z Groteką pokaz gier.
 title: Sobota na Bemowie z Groteką
 ---
 
