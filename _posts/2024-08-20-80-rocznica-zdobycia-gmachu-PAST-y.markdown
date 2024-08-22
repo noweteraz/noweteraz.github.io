@@ -4,11 +4,11 @@ date: '2024-08-20T07:00:00'
 tags: null
 image: /uploads/80-rocznica-pasta-fot-2.jpg
 description: >-
-  W dniu 20 sierpnia, przypada 79. rocznica zdobycia przez powstańców warszawskich, gmachu PAST-y (ówczesnego budynku Polskiej Akcyjnej Spółki Telefonicznej przy ul. Zielnej 39).
+  W dniu 20 sierpnia, przypada 80. rocznica zdobycia przez powstańców warszawskich, gmachu PAST-y (ówczesnego budynku Polskiej Akcyjnej Spółki Telefonicznej przy ul. Zielnej 39).
 title: 80. rocznica zdobycia gmachu PAST-y przez powstańców warszawskich
 ---
 
-W dniu 20 sierpnia, przypada 79. rocznica zdobycia przez powstańców warszawskich, gmachu PAST-y (ówczesnego budynku Polskiej Akcyjnej Spółki Telefonicznej przy ul. Zielnej 39).
+W dniu 20 sierpnia, przypada 80. rocznica zdobycia przez powstańców warszawskich, gmachu PAST-y (ówczesnego budynku Polskiej Akcyjnej Spółki Telefonicznej przy ul. Zielnej 39).
 
 Zacięte walki o budynek przy ul. Zielnej 39 trwały niemal od początku powstania warszawskiego.
 Walki o odbicie PAST-y trwały od 2 sierpnia 1944 roku. Powstańcze oddziały kilkukrotnie szturmowały budynek – ostatecznie gmach został zdobyty przez batalion „Kiliński” pod dowództwem rotmistrza Henryka Leliwy-Roycewicza przy wsparciu innych grup szturmowych AK. Po zwycięskiej akcji na szczycie budynku wywieszono biało-czerwoną flagę.
