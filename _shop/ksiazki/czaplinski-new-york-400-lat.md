@@ -20,5 +20,6 @@ layout: shop
 **Ilość stron**: 132  
 **Kolorystyka środka i okładki**: full color   
 **Papier środek**: kreda gloss 150 gsm   
-**Cena**: 69.90 zł
+**Cena**: 69.90 zł   
+**Opis szczegółowy**: [przejdź na stronę szczegółowego opisu, biogramu autora i kilku zdjęć z książki](/ksiazka-new-york-400-lat/){: .text-blue-700}  
 
