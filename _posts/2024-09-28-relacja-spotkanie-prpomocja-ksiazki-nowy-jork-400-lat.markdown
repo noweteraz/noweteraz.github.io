@@ -22,6 +22,9 @@ Z racji faktu, że impreza  miał miejsce w przybytku kultury, akcentem spinają
     
 W foyer teatru rozmowy z udziałem gospodarzy, organizatorów i bohatera wieczoru Czesława Czaplińskiego, który cierpliwie oczekującym w kolejce gościom podpisywał tego dnia uczynił bowiem wyjątek, trwały jeszcze długo po zakończeniu oficjalnej części tego jakże udanego spotkania. 
 
+
+Autor zdjęć: Adam Rozmarynowski Komar  
+
 ![Relacja z promocji książki Czesława Czaplińskiego "Nowy Jork 400 lat. New York 400 years. fot-1](/uploads/promocja-ksiazki-czaplinski-nowy-jork-400-lat-teatr-sabar-fot-1.jpg)
 
 ![Relacja z promocji książki Czesława Czaplińskiego "Nowy Jork 400 lat. New York 400 years. fot-2](/uploads/promocja-ksiazki-czaplinski-nowy-jork-400-lat-teatr-sabar-fot-2.jpg)
