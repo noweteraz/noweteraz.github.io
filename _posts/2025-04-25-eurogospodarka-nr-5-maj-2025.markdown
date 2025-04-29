@@ -18,3 +18,6 @@ Zapraszam do zapoznania się z zawartością: [najnowszego numeru pisma Eurogosp
 p.o. Redaktor Naczelny
 
 ![Eurogospodarka numer 5/2025 - Maj 2025](/uploads/eurogospodarka_nr-5_maj_2025-spis-tresci.jpg)
+
+
+<iframe width="100%" height="560" src="https://sibforms.com/serve/MUIFAOIL4vh4AXyGbWDuXJPkumCys5nNzhGdH6tgTiJNWzjvizQ43sBcgpkhMebccFv0VsqeqijOe5nR5KRxjKoZo9ZxV_1JzsORURS-TddLEmQtmR0VFXYBkqaAQvLgIrJ98oU1LVXUNoXJNaXkA2vH3TQzFsgCWpaaBVnmHYbTn1u5tYFma2yCI5WsjaqqSX40Im9SRBl2OZSA" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
