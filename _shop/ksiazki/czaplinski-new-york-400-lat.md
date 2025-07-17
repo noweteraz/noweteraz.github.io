@@ -12,7 +12,7 @@ order: book-0
 layout: shop
 seo:
   type: Product
-status: 0
+status:
 ---
  
 Album ze zdjęciami i opisami zdjęć w języku polskim i angielskim. Na ponad 130 stronach, na unikalnych zdjęciach, Czesław Czapliński, światowej sławy artysty fotograf i dziennikarz,  przedstawia swoją wizję Nowego Jorku na przestrzeni ostatnich kilkudziesięciu lat.
