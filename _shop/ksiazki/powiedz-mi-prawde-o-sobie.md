@@ -7,9 +7,12 @@ price: '15'
 price-gift: 
 link: 
 identifier: Book-Other
-stripe-buy-button-id: buy_btn_1Nl9DuDw6kOQ9hzxlmmxnj2v
+stripe-buy-button-id: buy_btn_1RlqzbDw6kOQ9hzxscDIUtMR
 order: book-1
 layout: shop
+seo:
+  type: Product
+status: 0
 ---
  
 **Autor**: Magdalena Chudzicka   

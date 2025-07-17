@@ -2,16 +2,17 @@
 title: Nowy Jork 400 lat. New York 400 years. Czesław Czapliński
 date: 2024-09-11T07:30:00.000CET
 image: "/assets/img/uploads/books/czeslaw-czaplinski-new-york-400-lat-ISBN-978-83-8333-271-0-JPG.jpg"
-excerpt: "Album ze zdjęciami i opisami zdjęć w języku polskim i angielskim. Na ponad 130 stronach, na unikalnych zdjęciach, Czesław Czapliński, światowej sławy artysty fotograf i dziennikarz,  przedstawia swoją wizję Nowego Jorku na przestrzeni ostatnich kilkudziesięciu lat."
+excerpt: "Na ponad 130 stronach, na unikalnych zdjęciach, Czesław Czapliński, światowej sławy artysty fotograf i dziennikarz,  przedstawia swoją wizję Nowego Jorku na przestrzeni ostatnich kilkudziesięciu lat."
 price: '30.00' 
 price-gift: 
 link: 
 identifier: Book-Other
-stripe-buy-button-id: buy_btn_1PxqRBDw6kOQ9hzxO8VgYVpc
+stripe-buy-button-id: buy_btn_1RlrHVDw6kOQ9hzxyoBUr0D3
 order: book-0
 layout: shop
 seo:
   type: Product
+status: 0
 ---
  
 Album ze zdjęciami i opisami zdjęć w języku polskim i angielskim. Na ponad 130 stronach, na unikalnych zdjęciach, Czesław Czapliński, światowej sławy artysty fotograf i dziennikarz,  przedstawia swoją wizję Nowego Jorku na przestrzeni ostatnich kilkudziesięciu lat.

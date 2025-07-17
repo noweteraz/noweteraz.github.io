@@ -7,9 +7,12 @@ price: '15'
 price-gift: 
 link: 
 identifier: Book-Other
-stripe-buy-button-id: buy_btn_1NlAtqDw6kOQ9hzxON90Wyb0
+stripe-buy-button-id: buy_btn_1RlrDJDw6kOQ9hzxcBVQief7
 order: book-1
 layout: shop
+seo:
+  type: Product
+status: 0
 ---
  
 **Autor**: Paweł Cwynar   
