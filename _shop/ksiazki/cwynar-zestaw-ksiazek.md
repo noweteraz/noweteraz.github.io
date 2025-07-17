@@ -8,6 +8,7 @@ price-gift:
 identifier: Book-Cwynar
 order: book-3
 layout: shop
+status: 0
 ---
 
 Cena: 45.00 zł  

@@ -1,9 +1,9 @@
 ---
 title: Wysłuchaj mnie, proszę... 
 date: 2023-08-31T07:30:00.000CET
-image: "/assets/img/uploads/books/wysluchaj-mni-prosze-pawel-cwynar-okladka.jpg"
-excerpt: "Znaczna część akcji tej powieści rozgrywa się we wrocławskim szpitalu na oddziale onkologicznym, gdzie poznaje się dwoje młodych ludzi."
-price: '36' 
+image: "/assets/img/uploads/books/wysluchaj-mnie-prosze-pawel-cwynar_wyd.3.jpg"
+excerpt: "Wysłuchaj mnie, proszę... - książka dla każdego, bez podziału na przekonania czy religię."
+price: '15' 
 price-gift: 
 link: 
 identifier: Book-Other
@@ -16,7 +16,7 @@ layout: shop
 **Oprawa**: Miękka   
 **Format**: 135 x 210 mm  
 **Ilość stron**: 364  
-**Cena**: 36.00 zł
+**Cena**: 15.00 zł
 
 Znaczna część akcji tej powieści rozgrywa się we wrocławskim szpitalu na oddziale onkologicznym, gdzie poznaje się dwoje młodych ludzi. W pełnych perypetii zdarzeniach rodzi się pomiędzy nimi miłość, dla której przeszkodą okazuje się odmienny światopogląd wynikający z wyznawanej wiary.
 

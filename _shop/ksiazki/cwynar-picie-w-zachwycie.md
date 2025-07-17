@@ -9,6 +9,7 @@ link: https://pawelcwynar.org
 identifier: Book-Cwynar
 order: book-2
 layout: shop
+status: 0
 ---
  
 **Autor**: Paweł Cwynar   

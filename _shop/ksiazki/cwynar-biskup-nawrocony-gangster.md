@@ -9,6 +9,7 @@ link: https://pawelcwynar.org
 identifier: Book-Cwynar
 order: book-4
 layout: shop
+status: 0
 ---
 
 **Autor**: Paweł Cwynar, Marcin Klimkowski   

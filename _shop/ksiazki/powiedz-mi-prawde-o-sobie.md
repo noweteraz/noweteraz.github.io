@@ -3,7 +3,7 @@ title: Powiedz mi prawdę o sobie
 date: 2022-05-01T07:30:00.000CET
 image: "/assets/img/uploads/books/powiedz-mi-prawde-o-sobie-m-chudzicka-fundacja-nowe-teraz.jpg"
 excerpt: "Książka opisuje rosyjską Misję szlachetnego zakonnika na szerokim tle sytuacji Kościoła Katolickiego w Rosji..."
-price: '39' 
+price: '15' 
 price-gift: 
 link: 
 identifier: Book-Other
@@ -16,7 +16,7 @@ layout: shop
 **Oprawa**: Miękka   
 **Format**: 170 x 240 mm  
 **Ilość stron**: 307  
-**Cena**: 39.00 zł
+**Cena**: 15.00 zł
 
 Oddajemy do rąk Czytelników biografię O. Grzegorza Ciorocha OFMConv (1962-2004), pierwszego Kustosza Kustodii Rosyjskiej, franciszkanina zamordowanego w Kobryniu na Białorusi. 
 
