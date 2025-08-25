@@ -1,3 +1,4 @@
+{% if page.active != 0 %}
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
@@ -7,3 +8,7 @@
   publishable-key="pk_live_51HCPxCDw6kOQ9hzxynCO3eKyeYY43nXk37Kai1l0E7xKsdiJQNc0WQ4SZY52D0tZPz1PcuQBesl8iHz7sHt0UMZd00TxEP6rnw"
 >
 </stripe-buy-button>
+
+{% else %}
+<p><strong>Brak na magazynie.</strong></p>
+{% endif %}

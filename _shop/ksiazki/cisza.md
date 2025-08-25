@@ -7,7 +7,7 @@ price: '26'
 price-gift: 
 link: 
 identifier: Book-Other
-stripe-buy-button-id: buy_btn_1Nl9m5Dw6kOQ9hzxiBB8ae6g
+stripe-buy-button-id: buy_btn_1RyAa5Dw6kOQ9hzxV5lqDHXH
 order: book-1
 layout: shop
 ---
@@ -16,7 +16,7 @@ layout: shop
 **Oprawa**: Miękka      
 **Format**: 125 x 195 mm  
 **Ilość stron**: 74     
-**Cena**: 26.00 zł
+**Cena**: 10.00 zł
 
 I część to wiersze o ciszy, miłości i przemijaniu.
 
