@@ -1,5 +1,5 @@
 ---
-title: Międzynarodowy Dzień Tolerancji 2025
+title: Międzynarodowy Dzień Tolerancji
 date: 2025-11-15T00:00:00.000Z
 tags: null
 image: "/uploads/miedzynarodowy-dzien-tolerancji-16-11-2025.webp"
