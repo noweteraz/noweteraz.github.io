@@ -1,8 +1,8 @@
 ---
 title: Boże Narodzenie 2025
-date: 2025-12-24T00:00:00.000Z
+date: 2025-12-23T00:00:00.000Z
 tags: null
-image: "/uploads/wesolych-swiat-bozego-narodzenia-2021.jpg"
+image: "/uploads/wesolych-swiat-bozego-narodzenia-2025-www.jpg"
 description: "Boże Narodzenie to czas refleksji, życzliwości i budowania wspólnoty — wartości ważnych również w działaniach społecznych."
 ---
 
