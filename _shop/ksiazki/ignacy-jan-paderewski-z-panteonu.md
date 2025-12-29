@@ -10,6 +10,8 @@ identifier: Book-Other
 stripe-buy-button-id: buy_btn_1Nl9T2Dw6kOQ9hzxJTioV6Ud"
 order: book-8
 layout: shop
+status: 0
+active: 0
 ---
  
 **Autor**: Kazimierz Roman, Czekaj Haag     

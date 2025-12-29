@@ -10,6 +10,7 @@ identifier: Book-Cwynar
 order: book-2
 layout: shop
 status: 0
+active: 0
 ---
  
 **Autor**: Paweł Cwynar   

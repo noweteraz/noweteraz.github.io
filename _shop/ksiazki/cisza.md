@@ -10,6 +10,8 @@ identifier: Book-Other
 stripe-buy-button-id: buy_btn_1RyAa5Dw6kOQ9hzxV5lqDHXH
 order: book-1
 layout: shop
+status: 0
+active: 0
 ---
  
 **Autor**: Jan Stępień         

@@ -10,6 +10,8 @@ stripe-buy-button-id: buy_btn_1NlA01Dw6kOQ9hzx2OH6KFnL
 order: null
 layout: shop
 published: true
+status: 0
+active: 0
 ---
 
 **Cena**: 25.00 zł    

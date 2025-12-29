@@ -9,6 +9,8 @@ identifier: CD-Audio-Gloria
 stripe-buy-button-id: buy_btn_1NlA1kDw6kOQ9hzxncwMlMa2
 order: 
 layout: shop
+status: 0
+active: 0
 ---
        
 **Wykonawcy**: Anna Maria Adamiak - śpiew, Krzysztof Jaszczak - fortepian, Robert Kuśmierski - akordeon, Przemysław Skałuba - klarnet, saksofon, Marcin Fidos - kontrabas, Dominik Klimczak - instrumenty perkusyjne.    

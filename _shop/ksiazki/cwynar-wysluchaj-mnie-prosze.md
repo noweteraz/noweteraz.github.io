@@ -9,7 +9,7 @@ link:
 identifier: Book-Cwynar
 order: book-1
 layout: shop
-status: 0
+status:
 ---
  
 **Autor**: Paweł Cwynar   

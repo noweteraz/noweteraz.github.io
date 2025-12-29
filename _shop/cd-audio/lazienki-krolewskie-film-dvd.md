@@ -7,6 +7,7 @@ price: '25'
 price-gift: 
 link: 
 status: 0
+active: 0
 identifier: CD-Audio
 order: book-1
 layout: shop

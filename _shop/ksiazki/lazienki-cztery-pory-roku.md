@@ -10,6 +10,8 @@ identifier: Book-Other
 stripe-buy-button-id: buy_btn_1Nl9VcDw6kOQ9hzxfTFBO4ch
 order: book-6
 layout: shop
+status: 0
+active: 0
 ---
  
 **Autor**: Witold Borkowski     

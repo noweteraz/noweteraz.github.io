@@ -12,7 +12,8 @@ order: book-1
 layout: shop
 seo:
   type: Product
-status:
+status: 1
+active: 1
 ---
  
 **Autor**: Magdalena Chudzicka   

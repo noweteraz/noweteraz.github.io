@@ -10,6 +10,8 @@ identifier: Book-Other
 stripe-buy-button-id: buy_btn_1Nl9rmDw6kOQ9hzxyIwi7pto
 order: book-2
 layout: shop
+status: 0
+active: 0
 ---
  
 **Autor**: Marek Kwiatkowski   

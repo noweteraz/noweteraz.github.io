@@ -10,6 +10,8 @@ status: 0
 identifier: Book-Other
 order: book-5
 layout: shop
+status: 0
+active: 0
 ---
  
 **Autor**: Paweł Elsztein   

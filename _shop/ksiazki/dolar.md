@@ -10,6 +10,8 @@ identifier: Book-Other
 stripe-buy-button-id: buy_btn_1Nl9XiDw6kOQ9hzx60lVKmX2
 order: book-9
 layout: shop
+status: 0
+active: 0
 ---
  
 **Autor**: Aleksander Miłowicki     

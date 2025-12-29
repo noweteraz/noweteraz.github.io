@@ -10,7 +10,7 @@ identifier: Book-Other
 stripe-buy-button-id: buy_btn_1Nl9xcDw6kOQ9hzx9Kqzppi1
 order: book-26
 layout: shop
-status: 1
+status: 0
 active: 0
 ---
  

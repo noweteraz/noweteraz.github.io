@@ -10,6 +10,8 @@ identifier: Book-Other
 stripe-buy-button-id: buy_btn_1Nl9QZDw6kOQ9hzxKvM2qtck
 order: book-3
 layout: shop
+status: 0
+active: 0
 ---
  
 **Autor**: Wiktor Kielich   

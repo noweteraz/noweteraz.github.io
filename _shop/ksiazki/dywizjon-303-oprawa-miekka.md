@@ -10,6 +10,8 @@ identifier: Book-Other
 stripe-buy-button-id: buy_btn_1Nl678Dw6kOQ9hzxc6UfzG7P
 order: book-24
 layout: shop
+status: 0
+active: 0
 ---
  
 **Autor**: Arkady Fiedler  

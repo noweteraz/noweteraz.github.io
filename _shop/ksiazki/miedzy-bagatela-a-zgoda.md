@@ -10,6 +10,8 @@ identifier: Book-Other
 stripe-buy-button-id: buy_btn_1Nl9pQDw6kOQ9hzxcGS05c3F
 order: book-7
 layout: shop
+status: 0
+active: 0
 ---
  
 **Autor**: Andrzej Zborski     

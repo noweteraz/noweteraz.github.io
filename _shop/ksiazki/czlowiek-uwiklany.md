@@ -10,6 +10,8 @@ identifier: Book-Other
 stripe-buy-button-id: buy_btn_1Nl9k6Dw6kOQ9hzxTq5RouGu
 order: book-1
 layout: shop
+status: 1
+active: 1
 ---
  
 **Autor**: Maria Szyszkowska      

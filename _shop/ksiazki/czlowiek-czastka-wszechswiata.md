@@ -7,6 +7,7 @@ price: '70'
 price-gift: 
 link: 
 status: 0
+active: 0
 identifier: Book-Other
 order: book-1
 layout: shop
