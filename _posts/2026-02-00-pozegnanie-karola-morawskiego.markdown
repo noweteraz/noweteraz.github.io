@@ -1,12 +1,12 @@
 ---
-title: Żegnamy Karola Morawskiego
+title: Żegnamy Karola Mórawskiego
 date: 2026-02-10T10:00:00.000Z
 tags: null
 image: "/uploads/Morawski_Karol_Pozegnanie.webp"
-description: Odszedł nasz współpracownik Karol Morawski.
+description: Odszedł nasz współpracownik Karol Mórawski.
 ---
 
-Jeszcze w piątek 6 lutego rozmawialiśmy telefonicznie na temat zawartości marcowego wydania Eurogospodarki. Miał nadzieję i przekonanie, że w drugiej dekadzie lutego będzie Mu dane podjąć pracę nad skrzętnie gromadzonymi tekstami redakcyjnych Kolegów. Sam także zamierzał opracować tekst dedykowany tzw. ustawie łańcuchowej. Nie zdążył. W poniedziałek o godzinie trzeciej nad ranem po heroicznej walce z wyniszczającą chorobą odszedł Karol Jerzy Morawski. Człowiek wielu talentów i pasji, rozległych zainteresowań i ogromnej wiedzy, głębokiej wiary i niespotykanej dobroci. 
+Jeszcze w piątek 6 lutego rozmawialiśmy telefonicznie na temat zawartości marcowego wydania Eurogospodarki. Miał nadzieję i przekonanie, że w drugiej dekadzie lutego będzie Mu dane podjąć pracę nad skrzętnie gromadzonymi tekstami redakcyjnych Kolegów. Sam także zamierzał opracować tekst dedykowany tzw. ustawie łańcuchowej. Nie zdążył. W poniedziałek o godzinie trzeciej nad ranem po heroicznej walce z wyniszczającą chorobą odszedł Karol Jerzy Mórawski. Człowiek wielu talentów i pasji, rozległych zainteresowań i ogromnej wiedzy, głębokiej wiary i niespotykanej dobroci. 
 
 Urodził się 3 sierpnia 1976 r. w Warszawie, w rodzinie o głębokich tradycjach patriotycznych manifestowanych pracą organiczną, szacunkiem dla kultury i tradycji, miłością do rodzinnego miasta ukształtowaną przez Ojca, znanego varsavianistę, muzealnika i Mamę wieloletnią pracownicę Teatru Wielkiego w Warszawie. Był patriotą Powiśla i Woli, gdzie upłynęły Jego dzieciństwo lata młodzieńcze. Absolwent  Wydziału Historii Uniwersytetu Warszawskiego. Od 2010 r. związany z wydawnictwem CPBiI, gdzie początkowo pisywał  do  „Miesięcznika Finansowego BANK”, „ Europejskiego Doradcy Samorządowego”, „Nowoczesnego Banku Spółdzielczego”, „Kuriera Finansowego” przekształconego następnie w „ Nowoczesne zarządzanie Biznesem” a także na łamach  portalu BANK.pl, Z czasem powierzono Mu rolę  redaktora prowadzącego miesięcznika. Pozostawił po sobie cały szereg  artykułów dedykowanych w szczególności zagadnieniom z zakresu  bankowości i finansów, to trwała spuścizna, po która jak w przypadku opracowania dotyczącego bankowozów sięgają w równej mierze specjaliści i praktycy, co studenci ekonomii.  
 
@@ -15,4 +15,5 @@ W  pracy, cechowała Go dociekliwość i  pasja badawcza, niezwykły pietyzm i d
 Miał kilka pozazawodowych pasji; największymi z nich były motoryzacja i historia. Autor kilkadziesiąt artykułów i esejów oraz wiele felietonów poświęconych historii i współczesnemu wizerunkowi Warszawy, był wykładowcą dziejów stolicy w Klubie Seniora „Wars i Sawa” Staromiejskiego Domu Kultury. Opracował szereg publikacji z zakresu krajoznawstwa oraz dziejów polskiej motoryzacji. Pracował m.in. w warszawskim Muzeum Techniki,  oraz Muzeum Historycznym m.st. Warszawy. Współpracował z redakcjami stołecznych dzienników „Życie”, „Dziennik – Polska, Europa, Świat” oraz „Polska The Times”. W 2004 r. uhonorowany Nagrodą im. Jana Józefa Lipskiego za książkę „Syrenka. Samochód PRL”. Na łamach Eurogospodarki, gdzie przez ostatnie 18 miesięcy pełnił obowiązki sekretarza Wydawnictwa dał się poznać jako wybitny specjalista z zakresu prawa gospodarczego, kwestii zarzadzania w samorządach, europejskiego systemu prawnego ze szczególny uwzględnieniem materii orzeczniczej, oraz całego szeregu wywiadów z czołowymi reprezentantami sfery realnej w gospodarce. Jeszcze w lutym dane nam było wspólnie zaprezentować dokonania Prezesa Zarządu Banku Ochrony Środowiska. Łączymy się w bólu z małżonką Marią, synem Rysiem i wszystkimi bliskimi. Żegnaj Przyjacielu!
 
 *Zdjęcie nagłowkowe fot. Justyna Radzymińska. Zdjęcie zostało udostępnione przez Wydawnictwo Centrum Procesów Bankowych i Informacji.*
+
 
