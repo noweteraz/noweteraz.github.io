@@ -69,7 +69,7 @@ Zapraszamy szkoły do udziału w programie **Eurogospodarka w Szkole**.
 [https://www.noweteraz.pl/projekty/eurogospodarka-w-szkole/](/projekty/eurogospodarka-w-szkole/)
 
 **Zapis do programu:**
-[https://forms.gle/FsVV2AG6eWAHQfNu9](https://forms.gle/FsVV2AG6eWAHQfNu9){:target="_blank"}
+[Przejdź do formularza rejestracji](https://9c36580e.sibforms.com/serve/MUIFAHH5c8n2OyXhaAzte8euKDlsDGexNFRUX9Axs9RjtHu-a8QDw075bEYtRcQhtLOItwvUefZLU2T0L_zAAAam-8sirvUsNJB74gi4VlShSlB42Z8KoucwKFaixTjm7v3P2Kxr4Pzskh8GbMAwl8Jbd0wFWBtHlADn3nEKiBEkxAiT8XLozVw4mgBZGrN3f8f60xlHfslZKlj2){:target="_blank"}
 
 
 

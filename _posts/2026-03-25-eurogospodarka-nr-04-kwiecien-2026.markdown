@@ -1,6 +1,6 @@
 ---
 published: true
-date: '2026-03-26T00:00:00'
+date: '2026-03-25T10:00:00'
 tags: null
 image: /uploads/eurogospodarka_nr-04_kwiecien_2026-okladka.jpg
 description: >-
@@ -20,4 +20,4 @@ Pełniący obowiązki Redaktora Naczelnego
 ![Eurogospodarka numer 4/2026 - Kwiecień 2026](/uploads/eurogospodarka_nr-04_kwiecien_2026-spis-tresci.jpg)
 
 
-<iframe width="100%" height="580" src="https://sibforms.com/serve/MUIFAOIL4vh4AXyGbWDuXJPkumCys5nNzhGdH6tgTiJNWzjvizQ43sBcgpkhMebccFv0VsqeqijOe5nR5KRxjKoZo9ZxV_1JzsORURS-TddLEmQtmR0VFXYBkqaAQvLgIrJ98oU1LVXUNoXJNaXkA2vH3TQzFsgCWpaaBVnmHYbTn1u5tYFma2yCI5WsjaqqSX40Im9SRBl2OZSA" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+<iframe width="100%" height="580" src="https://9c36580e.sibforms.com/serve/MUIFAKmPdeGbPgAGYtDS3rNVs8179ELJAn5lRECfw56UQGHRr82CJsHeOlGcTFbeu1Z3d-Qai8yYs2Kr6WG9tgjGlGbRT2hSCHLPTN8ZOSaREwuIZ8FlffAOQjeoNvVoSs7uGW-rnDkfH2tQWkKfQgUCLq8N86_tGE-IA5j2RHoHq4oL3PPT-JhspyKOEghOD73SMYqN8rgnDv_I" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
