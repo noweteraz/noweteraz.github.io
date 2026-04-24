@@ -1,6 +1,6 @@
 ---
 published: true
-date: '2026-04-2T08:00:00'
+date: '2026-04-25T08:00:00'
 tags: null
 image: /uploads/eurogospodarka_nr-05_maj_2026-okladka.jpg
 description: >-
