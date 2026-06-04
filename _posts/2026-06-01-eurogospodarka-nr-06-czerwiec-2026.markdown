@@ -2,7 +2,7 @@
 published: true
 date: '2026-06-01T08:00:00'
 tags: null
-image: /uploads/eurogospodarka_nr-06_czerwiec_2026-okladka.jpg
+image: /uploads/eurogospodarka_nr-06_czerwiecj_2026-okladka.jpg
 description: >-
   Zapraszamy do zapoznania się z zawartością najnowszego numeru pisma Eurogospodarka. Ponad 60 stron ważnych i aktualnych tekstów. Do poczytania... bez opłat. 
 title: Eurogospodarka 6/2026. Czytaj. Bezpłatnie!
