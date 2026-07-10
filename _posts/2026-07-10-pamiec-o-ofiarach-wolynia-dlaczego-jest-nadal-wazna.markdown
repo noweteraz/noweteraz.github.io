@@ -1,6 +1,6 @@
 ---
 title: Pamięć o ofiarach Wołynia – dlaczego jest nadal ważna?
-date: 2026-07-10T00:00:00.000Z
+date: 2026-07-10T07:00:00.000Z
 category: historia
 tags:
   - historia
