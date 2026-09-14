@@ -17,4 +17,6 @@ Władze, pracownicy i mieszkańcy Domu Artystów Weteranów Scen Polskich przeka
 To spotkanie było nie tylko koncertem — było gestem pamięci, wdzięczności i dialogu między pokoleniami artystów. Wydarzenie idealnie wpisało się w ideę Festiwalu Otwarte Ogrody, który od lat łączy sztukę, historię i lokalną społeczność.
 
 
-![Podziękowanie dla Fundacji Nowe Teraz](/uploads/xix-festiwal-otwarte-ogrody-w-uzdrowisku-konstancin-jeziorna.webp)
+![Podziękowanie dla Anny Marii Adamiak](/uploads/xix-festiwal-otwarte-ogrody-w-uzdrowisku-konstancin-jeziorna.webp)
+
+![Podziękowanie dla Fundacji Nowe Teraz](/uploads/xix-festiwal-otwarte-ogrody-w-uzdrowisku-konstancin-jeziorna-1.webp)
