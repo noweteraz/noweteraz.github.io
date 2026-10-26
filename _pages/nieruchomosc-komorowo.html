@@ -1,0 +1,242 @@
+---
+title: "Dom z ogrodem w Komorowie – na sprzedaż lub wynajem"
+description: "Dom 200 m² na działce 3600 m² z budynkiem gospodarczym 96 m². Komorowo, ul. Wodociąg 27, gmina Ostrów Mazowiecka. Sprzedaż lub wynajem – Fundacja Nowe Teraz."
+layout: page
+permalink: /nieruchomosc-komorowo/
+image: /assets/img/uploads/nieruchomosc-komorowo/komorowo-og.jpg
+sitemap: false
+
+# Dane oferty – edytuj tutaj
+cena_sprzedaz: "1 550 000 zł"
+cena_najem: "Do negocjacji"
+youtube_id: "WHhfmf1w30g"
+telefon: "510 597 373"
+email: "nieruchomosci@noweteraz.pl"
+adres: "Komorowo, ul. Wodociąg 27"
+gmina: "gmina Ostrów Mazowiecka"
+dane:
+  - liczba: "3 600"
+    jednostka: "m²"
+    opis: "działka"
+  - liczba: "200"
+    jednostka: "m²"
+    opis: "dom"
+  - liczba: "96"
+    jednostka: "m²"
+    opis: "budynek gospodarczy"
+galeria:
+  - plik: komorowo-01
+    alt: "Brama wjazdowa i dom – widok z drona"
+  - plik: komorowo-02
+    alt: "Dom od frontu z podjazdem – widok z drona"
+  - plik: komorowo-04
+    alt: "Dom i budynek gospodarczy wśród zieleni"
+  - plik: komorowo-03
+    alt: "Okolica – spokojna ulica i pola"
+  - plik: komorowo-05
+    alt: "Front domu i ogrodzenie"
+  - plik: komorowo-06
+    alt: "Budynek gospodarczy z dwiema bramami garażowymi"
+  - plik: komorowo-07
+    alt: "Dom i budynek gospodarczy, w tle pola"
+  - plik: komorowo-08
+    alt: "Działka widziana z góry"
+  - plik: komorowo-10
+    alt: "Działka od strony ogrodu"
+  - plik: komorowo-09
+    alt: "Działka i sąsiedztwo z góry"
+  - plik: komorowo-11
+    alt: "Podjazd i kuta brama"
+  - plik: komorowo-12
+    alt: "Front domu"
+  - plik: komorowo-13
+    alt: "Kuta brama wjazdowa"
+  - plik: komorowo-14
+    alt: "Budynek gospodarczy"
+  - plik: komorowo-15
+    alt: "Dom od strony ogrodu"
+  - plik: komorowo-16
+    alt: "Taras przy domu"
+---
+{% assign img = "/assets/img/uploads/nieruchomosc-komorowo/" %}
+{% assign tel = page.telefon | remove: " " %}
+<style>
+  .nt-wrap{max-width:1200px;margin:0 auto;padding:0 1rem}
+  .nt-hero{position:relative;min-height:70vh;display:flex;align-items:flex-end;color:#fff;background:#1d1d1b center/cover no-repeat}
+  .nt-hero:before{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(29,29,27,.88) 0%,rgba(29,29,27,.55) 55%,rgba(29,29,27,.4) 100%)}
+  .nt-hero .nt-wrap{position:relative;width:100%;padding-top:6rem;padding-bottom:3rem}
+  .nt-kicker{font-size:.85rem;letter-spacing:.18em;text-transform:uppercase;font-weight:700;color:#f39200}
+  .nt-h1{font-size:2.4rem;line-height:1.1;font-weight:800;margin:.6rem 0 1rem;max-width:20ch}
+  .nt-lead{font-size:1.15rem;max-width:46ch;opacity:.92}
+  .nt-prices{display:flex;flex-wrap:wrap;gap:1rem;margin:2rem 0 1.5rem}
+  .nt-price{background:rgba(250,246,240,.96);color:#1d1d1b;border-radius:.5rem;padding:1rem 1.4rem;min-width:220px}
+  .nt-price small{display:block;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:#6b6b66;font-weight:600}
+  .nt-price strong{display:block;font-size:1.7rem;font-weight:800;color:#e64810;white-space:nowrap}
+  .nt-btns{display:flex;flex-wrap:wrap;gap:.75rem}
+  .nt-btn{display:inline-flex;align-items:center;gap:.5rem;padding:.95rem 1.5rem;border-radius:.4rem;font-weight:700;line-height:1;text-decoration:none;transition:background .15s}
+  .nt-btn-main{background:#e64810;color:#fff}.nt-btn-main:hover{background:#c43c0b}
+  .nt-btn-ghost{background:rgba(255,255,255,.12);color:#fff;border:1px solid rgba(255,255,255,.6)}.nt-btn-ghost:hover{background:rgba(255,255,255,.22)}
+  .nt-sec{padding:4rem 0}
+  .nt-sec-alt{background:#faf6f0}
+  .nt-h2{font-size:1.9rem;font-weight:800;line-height:1.15;margin-bottom:1.25rem}
+  .nt-video{position:relative;padding-top:56.25%;border-radius:.6rem;overflow:hidden;background:#1d1d1b;box-shadow:0 12px 40px rgba(0,0,0,.18)}
+  .nt-video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+  .nt-video-empty{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#faf6f0;opacity:.7;font-weight:600}
+  .nt-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem}
+  .nt-stat{background:#fff;border-radius:.6rem;padding:1.5rem;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+  .nt-stat b{font-size:2.6rem;font-weight:800;color:#e64810;line-height:1}
+  .nt-stat span{font-weight:700;margin-left:.25rem}
+  .nt-stat p{margin-top:.4rem;color:#4b4b47}
+  .nt-cols{display:grid;gap:2.5rem}
+  .nt-prose p{color:#4b4b47;line-height:1.75;margin-bottom:1rem}
+  .nt-list li{position:relative;padding-left:1.4rem;margin-bottom:.6rem;color:#33332f}
+  .nt-list li:before{content:"";position:absolute;left:0;top:.6em;width:.55rem;height:.55rem;border-radius:50%;background:#f39200}
+  .nt-gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:.6rem}
+  .nt-gal a{display:block;border-radius:.4rem;overflow:hidden;aspect-ratio:4/3;background:#eee}
+  .nt-gal img{width:100%;height:100%;object-fit:cover;transition:transform .3s}
+  .nt-gal a:hover img{transform:scale(1.04)}
+  .nt-map{width:100%;height:420px;border:0;border-radius:.6rem}
+  .nt-contact{background:#1d1d1b;color:#faf6f0}
+  .nt-contact a.nt-link{color:#f39200;font-weight:700;text-decoration:none}
+  .nt-lb{border:0;padding:0;background:transparent;max-width:96vw;max-height:94vh}
+  .nt-lb::backdrop{background:rgba(15,15,14,.92)}
+  .nt-lb img{max-width:96vw;max-height:86vh;display:block;margin:0 auto;border-radius:.3rem}
+  .nt-lb p{color:#faf6f0;text-align:center;margin-top:.6rem}
+  .nt-lb button{position:fixed;top:50%;transform:translateY(-50%);background:rgba(255,255,255,.15);color:#fff;border:0;width:3rem;height:3rem;border-radius:50%;font-size:1.6rem;cursor:pointer}
+  .nt-lb .nt-x{top:1.5rem;right:1.5rem;transform:none}
+  .nt-lb .nt-prev{left:1rem}.nt-lb .nt-next{right:1rem}
+  @media (min-width:768px){
+    .nt-h1{font-size:3.6rem}
+    .nt-cols{grid-template-columns:3fr 2fr}
+    .nt-h2{font-size:2.3rem}
+  }
+</style>
+
+<section class="nt-hero" style="background-image:url('{{ img }}komorowo-01.webp')">
+  <div class="nt-wrap">
+    <p class="nt-kicker">Na sprzedaż lub wynajem</p>
+    <h1 class="nt-h1">Dom z ogrodem w Komorowie</h1>
+    <p class="nt-lead">{{ page.adres }}, {{ page.gmina }}. Dom 200&nbsp;m², budynek gospodarczy 96&nbsp;m² i działka 3&nbsp;600&nbsp;m² w spokojnej, zielonej okolicy.</p>
+    <div class="nt-prices">
+      <div class="nt-price"><small>Cena sprzedaży</small><strong>{{ page.cena_sprzedaz }}</strong></div>
+      <div class="nt-price"><small>Cena najmu</small><strong>{{ page.cena_najem }}</strong></div>
+    </div>
+    <div class="nt-btns">
+      <a class="nt-btn nt-btn-main" href="tel:+48{{ tel }}">Zadzwoń: {{ page.telefon }}</a>
+      <a class="nt-btn nt-btn-ghost" href="mailto:{{ page.email }}?subject=Nieruchomo%C5%9B%C4%87%20Komorowo%2C%20ul.%20Wodoci%C4%85g%2027">Napisz e-mail</a>
+    </div>
+  </div>
+</section>
+
+<section class="nt-sec">
+  <div class="nt-wrap">
+    <h2 class="nt-h2">Zobacz film</h2>
+    <div class="nt-video">
+      {% if page.youtube_id != "" %}
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube_id }}?rel=0" title="Film: dom z ogrodem w Komorowie" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      {% else %}
+      <div class="nt-video-empty">Film wkrótce</div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+<section class="nt-sec nt-sec-alt">
+  <div class="nt-wrap">
+    <h2 class="nt-h2">W liczbach</h2>
+    <div class="nt-stats">
+      {% for d in page.dane %}
+      <div class="nt-stat"><b>{{ d.liczba }}</b><span>{{ d.jednostka }}</span><p>{{ d.opis }}</p></div>
+      {% endfor %}
+      <div class="nt-stat"><b style="font-size:1.6rem">Parter + poddasze</b><p>dom z poddaszem użytkowym, pod wielospadowym dachem</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="nt-sec">
+  <div class="nt-wrap nt-cols">
+    <div class="nt-prose">
+      <h2 class="nt-h2">O nieruchomości</h2>
+      <p>Fundacja Nowe Teraz oferuje na sprzedaż lub wynajem dom z ogrodem w Komorowie, przy ul. Wodociąg 27. To miejsce dla osób, które szukają ciszy i przestrzeni, a jednocześnie chcą mieć dobry dojazd do Warszawy.</p>
+      <p><strong>Dom</strong> ma 200 m² powierzchni. Jest parterowy, z poddaszem użytkowym, pod wielospadowym dachem. Reprezentacyjny front, taras od strony ogrodu i kuta brama wjazdowa nadają mu wyjątkowy charakter.</p>
+      <p><strong>Budynek gospodarczy</strong> o powierzchni 96 m² ma dwie bramy garażowe. Pomieści samochody, sprzęt ogrodowy i wszystko, czego nie chcemy trzymać w domu.</p>
+      <p><strong>Działka</strong> ma 3 600 m². Jest płaska i ogrodzona, z dużym ogrodem, utwardzonym podjazdem i miejscem na rekreację.</p>
+      <p><strong>Okolica</strong> to spokojna ulica wśród domów jednorodzinnych, wokół zielone pola i lasy.</p>
+    </div>
+    <div>
+      <h2 class="nt-h2">Najważniejsze</h2>
+      <ul class="nt-list">
+        <li>Sprzedaż lub wynajem</li>
+        <li>Dom 200 m², parter z poddaszem użytkowym</li>
+        <li>Budynek gospodarczy 96 m² z dwiema bramami garażowymi</li>
+        <li>Działka 3 600 m², płaska i ogrodzona</li>
+        <li>Kuta brama wjazdowa i utwardzony podjazd</li>
+        <li>Ok. 100 km od Warszawy, dojazd drogą ekspresową S8</li>
+        <li>Tuż obok Ostrowi Mazowieckiej</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="nt-sec nt-sec-alt">
+  <div class="nt-wrap">
+    <h2 class="nt-h2">Galeria</h2>
+    <div class="nt-gal" id="nt-gal">
+      {% for g in page.galeria %}
+      <a href="{{ img }}{{ g.plik }}.webp" data-alt="{{ g.alt }}"><img src="{{ img }}{{ g.plik }}-min.webp" alt="{{ g.alt }}" width="640" height="480" loading="lazy"></a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="nt-sec">
+  <div class="nt-wrap">
+    <h2 class="nt-h2">Lokalizacja</h2>
+    <p class="nt-prose" style="margin-bottom:1.25rem"><span style="color:#4b4b47">{{ page.adres }}, {{ page.gmina }}, woj. mazowieckie. Ok. 100 km od Warszawy, dojazd drogą ekspresową S8.</span></p>
+    <iframe class="nt-map" loading="lazy" title="Mapa: Komorowo, ul. Wodociąg 27" src="https://maps.google.com/maps?q=Wodoci%C4%85g%2027%2C%20Komorowo%2C%20gmina%20Ostr%C3%B3w%20Mazowiecka&z=14&output=embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+</section>
+
+<section class="nt-sec nt-contact">
+  <div class="nt-wrap" style="text-align:center">
+    <p class="nt-kicker">Zobacz to miejsce na żywo</p>
+    <h2 class="nt-h2" style="margin-top:.6rem">Umów się na oglądanie</h2>
+    <p style="font-size:1.25rem;margin-bottom:.5rem">Telefon: <a class="nt-link" href="tel:+48{{ tel }}">{{ page.telefon }}</a></p>
+    <p style="font-size:1.25rem">E-mail: <a class="nt-link" href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+  </div>
+</section>
+
+<dialog class="nt-lb" id="nt-lb" aria-label="Powiększone zdjęcie">
+  <img src="" alt="">
+  <p></p>
+  <button type="button" class="nt-x" aria-label="Zamknij">&times;</button>
+  <button type="button" class="nt-prev" aria-label="Poprzednie zdjęcie">&lsaquo;</button>
+  <button type="button" class="nt-next" aria-label="Następne zdjęcie">&rsaquo;</button>
+</dialog>
+
+<script>
+  (function () {
+    var lb = document.getElementById('nt-lb');
+    if (!lb || typeof lb.showModal !== 'function') { return; }
+    var links = Array.prototype.slice.call(document.querySelectorAll('#nt-gal a'));
+    var im = lb.querySelector('img'), cap = lb.querySelector('p'), i = 0;
+    function show(n) {
+      i = (n + links.length) % links.length;
+      im.src = links[i].getAttribute('href');
+      im.alt = links[i].getAttribute('data-alt');
+      cap.textContent = links[i].getAttribute('data-alt');
+    }
+    links.forEach(function (a, n) {
+      a.addEventListener('click', function (e) { e.preventDefault(); show(n); lb.showModal(); });
+    });
+    lb.querySelector('.nt-x').addEventListener('click', function () { lb.close(); });
+    lb.querySelector('.nt-prev').addEventListener('click', function () { show(i - 1); });
+    lb.querySelector('.nt-next').addEventListener('click', function () { show(i + 1); });
+    lb.addEventListener('click', function (e) { if (e.target === lb) { lb.close(); } });
+    document.addEventListener('keydown', function (e) {
+      if (!lb.open) { return; }
+      if (e.key === 'ArrowLeft') { show(i - 1); }
+      if (e.key === 'ArrowRight') { show(i + 1); }
+    });
+  })();
+</script>
