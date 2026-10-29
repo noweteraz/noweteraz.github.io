@@ -1,0 +1,12 @@
+# Baner oferty nieruchomości – wyświetlany na wszystkich podstronach.
+# wariant: pasek | karta | zdjecie | wstega   (puste = baner ukryty)
+wariant: pasek
+url: /nieruchomosc-komorowo/
+tytul: Dom z ogrodem w Komorowie
+naglowek: Fundacja oferuje na sprzedaż lub wynajem
+cena: 1 550 000 zł
+najem: cena najmu do negocjacji
+dane:
+  - "dom 200 m²"
+  - "działka 3 600 m²"
+  - "budynek gospodarczy 96 m²"

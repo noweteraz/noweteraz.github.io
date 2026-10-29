@@ -52,9 +52,11 @@ layout: compress
   </head>
   <body class="font-sans antialiased">
     {% include header.html %}
+    {% include section-nieruchomosc.html miejsce="gora" %}
     
     <main>{{ content }}</main>
 
+    {% include section-nieruchomosc.html miejsce="dol" %}
     {% include section-newsletter.html %}
     {% include footer.html %}
     {% include cookie-consent.html %}

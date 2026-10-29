@@ -1,0 +1,121 @@
+{% comment %}
+  Baner oferty nieruchomości. Ustawienia: _data/nieruchomosc.yml
+  Layouty dołączają ten plik dwa razy, z parametrem miejsce = gora (pod nagłówkiem)
+  oraz miejsce = dol (nad newsletterem lub stopką). Wariant "pasek" pokazuje się u góry,
+  warianty "karta", "zdjecie" i "wstega" na dole.
+  Na samej podstronie oferty baner się nie wyświetla.
+{% endcomment %}
+{% assign n = site.data.nieruchomosc %}
+{% assign w = include.wariant | default: n.wariant %}
+{% if w == "pasek" %}{% assign gdzie = "gora" %}{% else %}{% assign gdzie = "dol" %}{% endif %}
+{% if n and w and w != "" and include.miejsce == gdzie and page.url != n.url %}
+{% assign img = "/assets/img/uploads/nieruchomosc-komorowo/" %}
+<style>
+  .ntb a{text-decoration:none}
+  .ntb-btn{display:inline-block;padding:1rem 2rem;line-height:1;font-weight:600;border-radius:.25rem;box-shadow:0 1px 3px rgba(0,0,0,.1);transition:background .2s}
+  .ntb-btn-i{color:#fff;background:#4f46e5}.ntb-btn-i:hover{background:#4338ca}
+  .ntb-btn-y{color:#111827;background:#fbbf24}.ntb-btn-y:hover{background:#f59e0b}
+  .ntb-btn-d{color:#fff;background:#111827}.ntb-btn-d:hover{background:#374151}
+  .ntb-kick{font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;font-weight:700}
+  .ntb-chips{display:flex;flex-wrap:wrap;gap:.5rem;margin:1.25rem 0}
+  .ntb-chips span{font-size:.875rem;font-weight:600;padding:.35rem .75rem;border-radius:9999px}
+  .ntb-strip{background:#4f46e5;color:#fff}
+  .ntb-strip .ntb-in{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;padding:.75rem 1rem}
+  .ntb-strip .ntb-ico{display:flex;padding:.5rem;border-radius:.5rem;background:#3730a3}
+  .ntb-strip p{flex:1 1 16rem;margin:0;font-weight:500}
+  .ntb-strip .ntb-more{display:none;opacity:.85}
+  .ntb-strip a.ntb-s{display:inline-block;padding:.5rem 1rem;border-radius:.375rem;background:#fff;color:#4f46e5;font-size:.875rem;font-weight:600}
+  .ntb-strip a.ntb-s:hover{background:#eef2ff}
+  .ntb-card{display:flex;flex-wrap:wrap;align-items:center;max-width:72rem;margin:0 auto}
+  .ntb-card .ntb-ph{width:100%;padding:0 1rem;margin-bottom:2rem}
+  .ntb-card .ntb-ph img{width:100%;height:auto;border-radius:.25rem;box-shadow:0 10px 25px rgba(0,0,0,.15)}
+  .ntb-card .ntb-tx{width:100%;padding:0 1rem}
+  .ntb-card h2{font-size:1.875rem;line-height:1.2;font-weight:600}
+  .ntb-card .ntb-chips span{background:#eef2ff;color:#3730a3}
+  .ntb-price{font-size:1.5rem;font-weight:800;color:#111827}
+  .ntb-price small{display:block;font-size:.875rem;font-weight:400;color:#6b7280}
+  .ntb-photo{position:relative;overflow:hidden;color:#fff;background:#111827}
+  .ntb-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+  .ntb-photo:before{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,rgba(17,24,39,.9) 0%,rgba(17,24,39,.6) 50%,rgba(17,24,39,.15) 100%)}
+  .ntb-photo .ntb-in{position:relative;z-index:2;padding:4rem 1rem}
+  .ntb-photo h2{font-size:2.25rem;line-height:1.1;font-weight:700;max-width:18ch;margin:.5rem 0 0}
+  .ntb-photo .ntb-chips span{background:rgba(255,255,255,.15);color:#fff}
+  .ntb-photo .ntb-price{color:#fbbf24}.ntb-photo .ntb-price small{color:#e5e7eb}
+  .ntb-band{background:#fbbf24;color:#111827}
+  .ntb-band .ntb-in{display:flex;flex-wrap:wrap;align-items:center;gap:1.5rem;padding:2rem 1rem}
+  .ntb-band img{width:96px;height:96px;border-radius:9999px;object-fit:cover;box-shadow:0 0 0 4px #fff}
+  .ntb-band .ntb-mid{flex:1 1 20rem}
+  .ntb-band h2{font-size:1.5rem;font-weight:700;line-height:1.2;margin:.25rem 0}
+  .ntb-band p{margin:0;color:#374151}
+  .ntb-band .ntb-price{font-size:1.25rem}
+  @media (max-width:767px){
+    .ntb-photo:before{background:rgba(17,24,39,.72)}
+  }
+  @media (min-width:768px){
+    .ntb-strip .ntb-more{display:inline}
+    .ntb-photo .ntb-in{padding:6rem 1rem}
+    .ntb-photo h2{font-size:3rem}
+  }
+  @media (min-width:1024px){
+    .ntb-card .ntb-ph{width:50%;margin-bottom:0}
+    .ntb-card .ntb-tx{width:50%;padding-left:5rem}
+    .ntb-card h2{padding-left:2rem;border-left:8px solid #e5e7eb}
+    .ntb-card .ntb-body{padding-left:2.5rem}
+  }
+</style>
+
+{% if w == "pasek" %}
+<aside class="ntb ntb-strip" aria-label="Oferta nieruchomości">
+  <div class="container mx-auto ntb-in">
+    <span class="ntb-ico"><svg class="h-6 w-6" width="24" height="24" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path></svg></span>
+    <p><strong>{{ n.naglowek }}:</strong> {{ n.tytul }}<span class="ntb-more"> · {{ n.dane | join: " · " }}</span></p>
+    <a class="ntb-s" href="{{ n.url }}">Zobacz ofertę</a>
+  </div>
+</aside>
+
+{% elsif w == "karta" %}
+<div class="container mx-auto px-4 ntb">
+  <section class="py-12 px-4" aria-label="Oferta nieruchomości">
+    <div class="ntb-card">
+      <div class="ntb-ph"><a href="{{ n.url }}"><img src="{{ img }}komorowo-karta.webp" alt="{{ n.tytul }} – widok z drona" width="900" height="675" loading="lazy"></a></div>
+      <div class="ntb-tx">
+        <p class="ntb-kick" style="color:#4f46e5;margin-bottom:.75rem">{{ n.naglowek }}</p>
+        <h2>{{ n.tytul }}</h2>
+        <div class="ntb-body">
+          <p class="mt-6 text-gray-500 leading-relaxed">Fundacja Nowe Teraz oferuje dom z ogrodem i budynkiem gospodarczym w spokojnej, zielonej okolicy niedaleko Ostrowi Mazowieckiej.</p>
+          <div class="ntb-chips">{% for d in n.dane %}<span>{{ d }}</span>{% endfor %}</div>
+          <p class="ntb-price">{{ n.cena }}<small>{{ n.najem }}</small></p>
+          <div style="margin-top:1.5rem"><a class="ntb-btn ntb-btn-i" href="{{ n.url }}">Zobacz ofertę i film</a></div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+{% elsif w == "zdjecie" %}
+<section class="ntb ntb-photo" aria-label="Oferta nieruchomości">
+  <img src="{{ img }}komorowo-baner.webp" alt="" width="1600" height="560" loading="lazy">
+  <div class="container mx-auto ntb-in">
+    <p class="ntb-kick" style="color:#fbbf24">{{ n.naglowek }}</p>
+    <h2>{{ n.tytul }}</h2>
+    <div class="ntb-chips">{% for d in n.dane %}<span>{{ d }}</span>{% endfor %}</div>
+    <p class="ntb-price">{{ n.cena }}<small>{{ n.najem }}</small></p>
+    <div style="margin-top:1.75rem"><a class="ntb-btn ntb-btn-y" href="{{ n.url }}">Zobacz ofertę i film</a></div>
+  </div>
+</section>
+
+{% elsif w == "wstega" %}
+<section class="ntb ntb-band" aria-label="Oferta nieruchomości">
+  <div class="container mx-auto ntb-in">
+    <img src="{{ img }}komorowo-mini.webp" alt="{{ n.tytul }}" width="96" height="96" loading="lazy">
+    <div class="ntb-mid">
+      <p class="ntb-kick">{{ n.naglowek }}</p>
+      <h2>{{ n.tytul }}</h2>
+      <p>{{ n.dane | join: " · " }}</p>
+    </div>
+    <p class="ntb-price">{{ n.cena }}<small style="color:#374151">{{ n.najem }}</small></p>
+    <a class="ntb-btn ntb-btn-d" href="{{ n.url }}">Zobacz ofertę</a>
+  </div>
+</section>
+{% endif %}
+{% endif %}
